@@ -96,11 +96,10 @@ def scrape_the_batch(max_pages: int = 1) -> Tuple[list, Optional[str], Optional[
     return articles, logo_url, icon_url
 
 
-def _add_icon_namespaces(xml_bytes: bytes, icon_url: str, logo_url: Optional[str]) -> bytes:
-    """Post-process RSS XML to add webfeeds and itunes icon elements."""
+def _post_process(xml_bytes: bytes, icon_url: str, logo_url: Optional[str], self_url: str) -> bytes:
+    """Post-process RSS XML to fix channel link and add multi-reader icon support."""
     root = etree.fromstring(xml_bytes)
 
-    # Build new root with extra namespaces
     nsmap = dict(root.nsmap or {})
     nsmap["webfeeds"] = WEBFEEDS_NS
     nsmap["itunes"] = ITUNES_NS
@@ -111,21 +110,41 @@ def _add_icon_namespaces(xml_bytes: bytes, icon_url: str, logo_url: Optional[str
 
     channel = new_root.find("channel")
 
-    # <webfeeds:icon> — square icon (Feedly, NetNewsWire, Reeder)
-    wf_icon = etree.SubElement(channel, f"{{{WEBFEEDS_NS}}}icon")
+    # Fix channel <link>: feedgen puts self URL there; replace with website URL
+    link_elem = channel.find("link")
+    if link_elem is not None:
+        link_elem.text = f"{BASE_URL}/the-batch/"
+
+    # Fix <atom:link rel="self"> to correct feed URL
+    ATOM_NS = "http://www.w3.org/2005/Atom"
+    for atom_link in channel.findall(f"{{{ATOM_NS}}}link"):
+        if atom_link.get("rel") == "self":
+            atom_link.set("href", self_url)
+
+    # Fix standard <image> to use square icon (better compatibility, size limits)
+    img_elem = channel.find("image")
+    if img_elem is not None and icon_url:
+        url_elem = img_elem.find("url")
+        if url_elem is not None:
+            url_elem.text = icon_url
+
+    # Insert icon elements after <title> for maximum visibility
+    inserts = []
+    wf_icon = etree.Element(f"{{{WEBFEEDS_NS}}}icon")
     wf_icon.text = icon_url
-    channel.insert(1, channel[-1])  # move to top
+    inserts.append(wf_icon)
 
-    # <webfeeds:logo> — wide logo (Feedly cover)
     if logo_url:
-        wf_logo = etree.SubElement(channel, f"{{{WEBFEEDS_NS}}}logo")
+        wf_logo = etree.Element(f"{{{WEBFEEDS_NS}}}logo")
         wf_logo.text = logo_url
-        channel.insert(2, channel[-1])
+        inserts.append(wf_logo)
 
-    # <itunes:image href="..."> — iTunes/podcast compatible readers
-    itunes_img = etree.SubElement(channel, f"{{{ITUNES_NS}}}image")
+    itunes_img = etree.Element(f"{{{ITUNES_NS}}}image")
     itunes_img.set("href", icon_url)
-    channel.insert(3, channel[-1])
+    inserts.append(itunes_img)
+
+    for i, elem in enumerate(inserts, start=1):
+        channel.insert(i, elem)
 
     return etree.tostring(new_root, pretty_print=True, xml_declaration=True, encoding="UTF-8")
 
@@ -162,8 +181,9 @@ def generate_feed(
 
     xml_bytes = fg.rss_str(pretty=True)
 
+    self_url = "https://doguskidik.github.io/newsletters-rss-feeds/feeds/the_batch.xml"
     if icon_url or logo_url:
-        xml_bytes = _add_icon_namespaces(xml_bytes, icon_url or logo_url, logo_url)
+        xml_bytes = _post_process(xml_bytes, icon_url or logo_url, logo_url, self_url)
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, "wb") as f:
