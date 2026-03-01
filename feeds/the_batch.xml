@@ -2,12 +2,123 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>The Batch Newsletter</title>
+    <link>https://www.deeplearning.ai/the-batch/</link>
     <description>AI news and insights from deeplearning.ai</description>
-    <atom:link href="" rel="self"/>
+    <atom:link href="https://doguskidik.github.io/newsletters-rss-feeds/feeds/the_batch.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://www.deeplearning.ai/static/favicons/apple-touch-icon.png</url>
+      <title>The Batch Newsletter</title>
+      <link>https://www.deeplearning.ai/static/favicons/apple-touch-icon.png</link>
+    </image>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Mar 2026 20:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 22:01:58 +0000</lastBuildDate>
+    <item>
+      <title>Open Agentic LLMs Proliferate, Robot Removes Gallbladders, Reasoning Models Boost Emissions, OpenAI Re-Opens</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-313/</link>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/08/Why-Meta-Is-Paying-AI-Engineers--100M-2.jpg" alt="Open Agentic LLMs Proliferate, Robot Removes Gallbladders, Reasoning Models Boost Emissions, OpenAI Re-Opens"&gt;&lt;br&gt;The Batch AI News and Insights: Recently Meta made headlines with unprecedented, massive compensation packages for AI model builders exceeding $100M (sometimes spread over multiple years).</description>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-313/</guid>
+      <pubDate>Wed, 06 Aug 2025 12:28:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>GPT-5’s Rough Takeoff, AI Video Blockbusters, India’s Homegrown LLMs, Synthetic Data Generation</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-314/</link>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/08/AI-Transformation-Comes-to-Universities.png" alt="GPT-5’s Rough Takeoff, AI Video Blockbusters, India’s Homegrown LLMs, Synthetic Data Generation"&gt;&lt;br&gt;The Batch AI News and Insights: Just as many businesses are transforming to become more capable by using AI, universities are too.</description>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-314/</guid>
+      <pubDate>Wed, 13 Aug 2025 12:26:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>China Questions Nvidia, When Models Memorize, Mixture of Video Experts, OpenAI &amp; Oracle Join Forces</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-315/</link>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/08/How-Non-Coders-Built-5-Software-Products-in-6--Hours.png" alt="China Questions Nvidia, When Models Memorize, Mixture of Video Experts, OpenAI &amp; Oracle Join Forces"&gt;&lt;br&gt;The Batch AI News and Insights: On Saturday at the Buildathon [http://buildathon.ai] hosted by AI Fund and DeepLearning.AI, over 100 developers competed to build software products quickly using AI assisted coding.</description>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-315/</guid>
+      <pubDate>Wed, 20 Aug 2025 12:53:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>AI-Powered Phones Get Proactive, Robot Antelope Joins Herd, LLM Environmental Impacts Get Measured</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-316/</link>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/08/Agents-Running-in-Parallel-Get-There-Faster-2.png" alt="AI-Powered Phones Get Proactive, Robot Antelope Joins Herd, LLM Environmental Impacts Get Measured"&gt;&lt;br&gt;The Batch AI News and Insights: Parallel agents are emerging as an important new direction for scaling up AI. AI capabilities have scaled with more training data, training-time compute, and test-time compute.</description>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-316/</guid>
+      <pubDate>Wed, 27 Aug 2025 12:34:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Gemini’s Environmental Impact, China’s Emerging AI Hub, Chatbot Job Interviews, Security For Agents</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-317/</link>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/09/CODER-INTERVIEW-2022-2025-2.jpg" alt="Gemini’s Environmental Impact, China’s Emerging AI Hub, Chatbot Job Interviews, Security For Agents"&gt;&lt;br&gt;The Batch AI News and Insights: There is significant unmet demand for developers who understand AI. </description>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-317/</guid>
+      <pubDate>Wed, 03 Sep 2025 12:57:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Stronger Chatbot Guardrails, Weaker Google Monopoly, AI-Assisted Education, 10 Million Tokens of Context</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-318/</link>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/09/Knowledge-Is-Great--Skills-Are-Greater.png" alt="Stronger Chatbot Guardrails, Weaker Google Monopoly, AI-Assisted Education, 10 Million Tokens of Context"&gt;&lt;br&gt;The Batch AI News and Insights: This week, Coursera held its annual conference in Las Vegas. A major theme was the shift from knowledge- to skills-based education, which will help many individuals, businesses, and educational institutions.</description>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-318/</guid>
+      <pubDate>Wed, 10 Sep 2025 12:58:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Drone Swarms Go To War, States Ban AI Mental-Health Treatments, Qwen3-Next Accelerates, Transformers Get Energized</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-319/</link>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/09/unnamed--74-.jpg" alt="Drone Swarms Go To War, States Ban AI Mental-Health Treatments, Qwen3-Next Accelerates, Transformers Get Energized"&gt;&lt;br&gt;The Batch AI News and Insights: Automated software testing is growing in importance in the era of AI-assisted coding.</description>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-319/</guid>
+      <pubDate>Wed, 17 Sep 2025 13:38:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>AI Agents Spend Money, Online Betting Automates, ChatGPT Users Shift, Reinforcement Learning Accelerates</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-320/</link>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/09/High-Stakes-in-the-U.S.-China-AI-Chip-Race.png" alt="AI Agents Spend Money, Online Betting Automates, ChatGPT Users Shift, Reinforcement Learning Accelerates"&gt;&lt;br&gt;The Batch AI News and Insights: Last week, China barred its major tech companies from buying Nvidia chips.</description>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-320/</guid>
+      <pubDate>Wed, 24 Sep 2025 11:36:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>OpenAI’s Trillion-Dollar Bet, Generating Viruses, Modeling Planet Earth, Paying for Training Data</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-321/</link>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/10/How-to-Liberate-Data-From-Large--Complex-PDFs.gif" alt="OpenAI’s Trillion-Dollar Bet, Generating Viruses, Modeling Planet Earth, Paying for Training Data"&gt;&lt;br&gt;The Batch AI News and Insights: LandingAI’s Agentic Document Extraction (ADE) turns PDF files into LLM-ready markdown text.</description>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-321/</guid>
+      <pubDate>Wed, 01 Oct 2025 12:52:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Claude Levels Up, Qwen3 Proliferates, Big AI Diversifies Product Lines, LoRA Adapters on Tap</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-322/</link>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/10/Check-Out-Our-Course-on-How-to-Build-AI-Agents-png-2.png" alt="Claude Levels Up, Qwen3 Proliferates, Big AI Diversifies Product Lines, LoRA Adapters on Tap"&gt;&lt;br&gt;The Batch AI News and Insights: I’m thrilled to announce my latest course: Agentic AI! This course will get you up to speed building cutting-edge agentic workflows.</description>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-322/</guid>
+      <pubDate>Wed, 08 Oct 2025 12:57:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, Robots Improve Spatial Awareness</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-323/</link>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/10/Fruitbasket7_1200px-1.jpg" alt="DeepSeek Cuts Inference Costs, OpenAI Tightens Ties with AMD, Thinking Machines Simplifies Fine-Tuning, Robots Improve Spatial Awareness"&gt;&lt;br&gt;The Batch AI News and Insights: Readers responded with both surprise and agreement last week when I wrote that the single biggest predictor of how rapidly a team makes progress building an AI agent lay in their ability to drive a disciplined process for evals...</description>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-323/</guid>
+      <pubDate>Wed, 15 Oct 2025 14:44:03 -0700</pubDate>
+    </item>
+    <item>
+      <title>Ling-1T Leads Non-Reasoning Performance, MCP Poses Security Risks, California Regulates AI, Auto-Tune for Agentic Prompts</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-324/</link>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/10/Improve-Agentic-Performance-with-Evals-and-Error-Analysis--Part-2.jpg" alt="Ling-1T Leads Non-Reasoning Performance, MCP Poses Security Risks, California Regulates AI, Auto-Tune for Agentic Prompts"&gt;&lt;br&gt;The Batch AI News and Insights: In last week’s letter, I explained how effective agentic AI development needs a disciplined evals and error analysis process, and described an approach to performing evals.</description>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-324/</guid>
+      <pubDate>Wed, 22 Oct 2025 12:38:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Monsters of AI: AI Psychosis, Lethal Drones, Decaying Data, Speculative Bubbles</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-325/</link>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/10/Announcing-the-DeepLearning.AI-Pro-membership---A-message-from-Andrew-Ng-1.jpg" alt="Monsters of AI: AI Psychosis, Lethal Drones, Decaying Data, Speculative Bubbles"&gt;&lt;br&gt;The Batch AI News and Insights: Today I’m launching DeepLearning.AI Pro — the one membership that keeps you at the forefront of AI. Please join!</description>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-325/</guid>
+      <pubDate>Wed, 29 Oct 2025 16:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Reorgs For Profit, MiniMax-M2 Leads Open Coding, Universal Music Group Embraces AI, LLMs Go Private</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-326/</link>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/11/Tear-Down-Data-Silos--1.png" alt="OpenAI Reorgs For Profit, MiniMax-M2 Leads Open Coding, Universal Music Group Embraces AI, LLMs Go Private"&gt;&lt;br&gt;The Batch AI News and Insights: AI agents are getting better at looking at different types of data in businesses to spot patterns and create value. This is making data silos increasingly painful.</description>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-326/</guid>
+      <pubDate>Wed, 05 Nov 2025 12:32:00 -0800</pubDate>
+    </item>
+    <item>
+      <title>Safer (and Sexier) Chatbots, Better Images Through Reasoning, The Dawn of Industrial AI, Forecasting Time Series</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-327/</link>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/11/Don-t-Believe-The-Hype-.png" alt="Safer (and Sexier) Chatbots, Better Images Through Reasoning, The Dawn of Industrial AI, Forecasting Time Series"&gt;&lt;br&gt;The Batch AI News and Insights: I recently received an email titled “An 18-year-old’s dilemma: Too late to contribute to AI?” Its author, who gave me permission to share this, is preparing for college.</description>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-327/</guid>
+      <pubDate>Wed, 12 Nov 2025 12:32:00 -0800</pubDate>
+    </item>
     <item>
       <title>Safer (and Sexier) Chatbots, Better Images Through Reasoning, The Dawn of Industrial AI, Forecasting Time Series</title>
       <link>https://www.deeplearning.ai/the-batch/issue-327/</link>
