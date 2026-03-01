@@ -109,12 +109,15 @@ def _post_process(xml_bytes: bytes, icon_url: str, self_url: str) -> bytes:
         if atom_link.get("rel") == "self":
             atom_link.set("href", self_url)
 
-    # Fix standard <image> to use square icon
+    # Fix standard <image> to use square icon for both url and link
     img_elem = channel.find("image")
     if img_elem is not None:
         url_elem = img_elem.find("url")
         if url_elem is not None:
             url_elem.text = icon_url
+        link_elem_img = img_elem.find("link")
+        if link_elem_img is not None:
+            link_elem_img.text = icon_url
 
     return etree.tostring(root, pretty_print=True, xml_declaration=True, encoding="UTF-8")
 
