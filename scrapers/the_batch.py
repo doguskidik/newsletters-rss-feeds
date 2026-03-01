@@ -7,7 +7,7 @@ Scrapes deeplearning.ai/the-batch via __NEXT_DATA__ JSON and generates RSS feed
 import json
 import os
 from datetime import datetime, timezone
-from typing import Optional, Tuple
+from typing import Optional
 
 import requests
 from bs4 import BeautifulSoup
@@ -17,10 +17,6 @@ from lxml import etree
 BASE_URL = "https://www.deeplearning.ai"
 PAGE_URL = BASE_URL + "/the-batch/page/{page}/"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; RSSBot/1.0)"}
-
-WEBFEEDS_NS = "http://webfeeds.org/rss/1.0"
-ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
-
 
 def fetch_page_data(page: int) -> dict:
     """Fetch raw pageProps from a single page via __NEXT_DATA__ JSON."""
@@ -60,7 +56,7 @@ def parse_post(post: dict) -> dict:
     }
 
 
-def scrape_the_batch(max_pages: int = 1) -> Tuple[list, Optional[str], Optional[str]]:
+def scrape_the_batch(max_pages: int = 1) -> tuple:
     """Scrape The Batch newsletter.
 
     Returns (articles, logo_url, icon_url).
@@ -96,19 +92,10 @@ def scrape_the_batch(max_pages: int = 1) -> Tuple[list, Optional[str], Optional[
     return articles, logo_url, icon_url
 
 
-def _post_process(xml_bytes: bytes, icon_url: str, logo_url: Optional[str], self_url: str) -> bytes:
-    """Post-process RSS XML to fix channel link and add multi-reader icon support."""
+def _post_process(xml_bytes: bytes, icon_url: str, self_url: str) -> bytes:
+    """Post-process RSS XML to fix channel link and image URL."""
     root = etree.fromstring(xml_bytes)
-
-    nsmap = dict(root.nsmap or {})
-    nsmap["webfeeds"] = WEBFEEDS_NS
-    nsmap["itunes"] = ITUNES_NS
-
-    new_root = etree.Element(root.tag, attrib=root.attrib, nsmap=nsmap)
-    for child in root:
-        new_root.append(child)
-
-    channel = new_root.find("channel")
+    channel = root.find("channel")
 
     # Fix channel <link>: feedgen puts self URL there; replace with website URL
     link_elem = channel.find("link")
@@ -121,32 +108,14 @@ def _post_process(xml_bytes: bytes, icon_url: str, logo_url: Optional[str], self
         if atom_link.get("rel") == "self":
             atom_link.set("href", self_url)
 
-    # Fix standard <image> to use square icon (better compatibility, size limits)
+    # Fix standard <image> to use square icon
     img_elem = channel.find("image")
-    if img_elem is not None and icon_url:
+    if img_elem is not None:
         url_elem = img_elem.find("url")
         if url_elem is not None:
             url_elem.text = icon_url
 
-    # Insert icon elements after <title> for maximum visibility
-    inserts = []
-    wf_icon = etree.Element(f"{{{WEBFEEDS_NS}}}icon")
-    wf_icon.text = icon_url
-    inserts.append(wf_icon)
-
-    if logo_url:
-        wf_logo = etree.Element(f"{{{WEBFEEDS_NS}}}logo")
-        wf_logo.text = logo_url
-        inserts.append(wf_logo)
-
-    itunes_img = etree.Element(f"{{{ITUNES_NS}}}image")
-    itunes_img.set("href", icon_url)
-    inserts.append(itunes_img)
-
-    for i, elem in enumerate(inserts, start=1):
-        channel.insert(i, elem)
-
-    return etree.tostring(new_root, pretty_print=True, xml_declaration=True, encoding="UTF-8")
+    return etree.tostring(root, pretty_print=True, xml_declaration=True, encoding="UTF-8")
 
 
 def generate_feed(
@@ -182,8 +151,8 @@ def generate_feed(
     xml_bytes = fg.rss_str(pretty=True)
 
     self_url = "https://doguskidik.github.io/newsletters-rss-feeds/feeds/the_batch.xml"
-    if icon_url or logo_url:
-        xml_bytes = _post_process(xml_bytes, icon_url or logo_url, logo_url, self_url)
+    if icon_url:
+        xml_bytes = _post_process(xml_bytes, icon_url, self_url)
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, "wb") as f:
