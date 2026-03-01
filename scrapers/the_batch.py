@@ -17,7 +17,7 @@ from lxml import etree
 BASE_URL = "https://www.deeplearning.ai"
 PAGE_URL = BASE_URL + "/the-batch/page/{page}/"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; RSSBot/1.0)"}
-FEED_ICON_URL = "https://www.deeplearning.ai/favicon.ico"
+FEED_ICON_URL = "https://www.deeplearning.ai/static/favicons/apple-touch-icon.png"
 
 def fetch_page_data(page: int) -> dict:
     """Fetch raw pageProps from a single page via __NEXT_DATA__ JSON."""
