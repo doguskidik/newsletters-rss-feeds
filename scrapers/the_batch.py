@@ -151,7 +151,12 @@ def generate_feed(
 
     xml_bytes = fg.rss_str(pretty=True)
 
-    self_url = "https://doguskidik.github.io/newsletters-rss-feeds/feeds/the_batch.xml"
+    repo = os.environ.get("GITHUB_REPOSITORY", "")
+    if repo and "/" in repo:
+        owner, repo_name = repo.split("/", 1)
+        self_url = f"https://{owner}.github.io/{repo_name}/feeds/the_batch.xml"
+    else:
+        self_url = ""
     xml_bytes = _post_process(xml_bytes, FEED_ICON_URL, self_url)
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
