@@ -172,7 +172,7 @@ def generate_feed(
 
 def main():
     print("Scraping The Batch newsletter...")
-    articles, logo_url, icon_url = scrape_the_batch(max_pages=1)
+    articles, logo_url, icon_url = scrape_the_batch(max_pages=2)
 
     if articles:
         output_path = os.path.join(os.path.dirname(__file__), "..", "feeds", "the_batch.xml")
