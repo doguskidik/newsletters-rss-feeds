@@ -7,15 +7,19 @@ Scrapes deeplearning.ai/the-batch via __NEXT_DATA__ JSON and generates RSS feed
 import json
 import os
 from datetime import datetime, timezone
-from typing import Optional
+from typing import Optional, Tuple
 
 import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
+from lxml import etree
 
 BASE_URL = "https://www.deeplearning.ai"
 PAGE_URL = BASE_URL + "/the-batch/page/{page}/"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; RSSBot/1.0)"}
+
+WEBFEEDS_NS = "http://webfeeds.org/rss/1.0"
+ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 
 
 def fetch_page_data(page: int) -> dict:
@@ -56,17 +60,17 @@ def parse_post(post: dict) -> dict:
     }
 
 
-def scrape_the_batch(max_pages: int = 1) -> tuple:
+def scrape_the_batch(max_pages: int = 1) -> Tuple[list, Optional[str], Optional[str]]:
     """Scrape The Batch newsletter.
 
-    Args:
-        max_pages: Number of pages to fetch (each page has ~16 issues).
-
-    Returns (articles, feed_logo_url).
+    Returns (articles, logo_url, icon_url).
+    logo_url: wide logo for RSS <image> element
+    icon_url: square icon for webfeeds:icon / itunes:image
     """
     articles = []
     total_pages = None
     logo_url = None
+    icon_url = None
 
     for page in range(1, max_pages + 1):
         try:
@@ -75,7 +79,9 @@ def scrape_the_batch(max_pages: int = 1) -> tuple:
             total_pages = page_props["totalPages"]
 
             if logo_url is None:
-                logo_url = page_props.get("settings", {}).get("logo")
+                settings = page_props.get("settings", {})
+                logo_url = settings.get("logo")
+                icon_url = settings.get("icon")
 
             for post in posts:
                 articles.append(parse_post(post))
@@ -87,10 +93,49 @@ def scrape_the_batch(max_pages: int = 1) -> tuple:
         if total_pages is not None and page >= total_pages:
             break
 
-    return articles, logo_url
+    return articles, logo_url, icon_url
 
 
-def generate_feed(articles: list, output_path: str, logo_url: Optional[str] = None) -> None:
+def _add_icon_namespaces(xml_bytes: bytes, icon_url: str, logo_url: Optional[str]) -> bytes:
+    """Post-process RSS XML to add webfeeds and itunes icon elements."""
+    root = etree.fromstring(xml_bytes)
+
+    # Build new root with extra namespaces
+    nsmap = dict(root.nsmap or {})
+    nsmap["webfeeds"] = WEBFEEDS_NS
+    nsmap["itunes"] = ITUNES_NS
+
+    new_root = etree.Element(root.tag, attrib=root.attrib, nsmap=nsmap)
+    for child in root:
+        new_root.append(child)
+
+    channel = new_root.find("channel")
+
+    # <webfeeds:icon> — square icon (Feedly, NetNewsWire, Reeder)
+    wf_icon = etree.SubElement(channel, f"{{{WEBFEEDS_NS}}}icon")
+    wf_icon.text = icon_url
+    channel.insert(1, channel[-1])  # move to top
+
+    # <webfeeds:logo> — wide logo (Feedly cover)
+    if logo_url:
+        wf_logo = etree.SubElement(channel, f"{{{WEBFEEDS_NS}}}logo")
+        wf_logo.text = logo_url
+        channel.insert(2, channel[-1])
+
+    # <itunes:image href="..."> — iTunes/podcast compatible readers
+    itunes_img = etree.SubElement(channel, f"{{{ITUNES_NS}}}image")
+    itunes_img.set("href", icon_url)
+    channel.insert(3, channel[-1])
+
+    return etree.tostring(new_root, pretty_print=True, xml_declaration=True, encoding="UTF-8")
+
+
+def generate_feed(
+    articles: list,
+    output_path: str,
+    logo_url: Optional[str] = None,
+    icon_url: Optional[str] = None,
+) -> None:
     """Generate RSS feed from articles."""
     fg = FeedGenerator()
     fg.title("The Batch Newsletter")
@@ -115,19 +160,26 @@ def generate_feed(articles: list, output_path: str, logo_url: Optional[str] = No
         fe.published(article["pub_date"])
         fe.guid(article["link"], permalink=True)
 
+    xml_bytes = fg.rss_str(pretty=True)
+
+    if icon_url or logo_url:
+        xml_bytes = _add_icon_namespaces(xml_bytes, icon_url or logo_url, logo_url)
+
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    fg.rss_file(output_path, pretty=True)
+    with open(output_path, "wb") as f:
+        f.write(xml_bytes)
+
     print(f"✓ Generated RSS feed: {output_path}")
     print(f"  Total articles: {len(articles)}")
 
 
 def main():
     print("Scraping The Batch newsletter...")
-    articles, logo_url = scrape_the_batch(max_pages=1)
+    articles, logo_url, icon_url = scrape_the_batch(max_pages=1)
 
     if articles:
         output_path = os.path.join(os.path.dirname(__file__), "..", "feeds", "the_batch.xml")
-        generate_feed(articles, output_path, logo_url)
+        generate_feed(articles, output_path, logo_url, icon_url)
     else:
         print("⚠ No articles found")
 
