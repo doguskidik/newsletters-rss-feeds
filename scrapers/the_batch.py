@@ -17,6 +17,7 @@ from lxml import etree
 BASE_URL = "https://www.deeplearning.ai"
 PAGE_URL = BASE_URL + "/the-batch/page/{page}/"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; RSSBot/1.0)"}
+FEED_ICON_URL = "https://www.deeplearning.ai/favicon.ico"
 
 def fetch_page_data(page: int) -> dict:
     """Fetch raw pageProps from a single page via __NEXT_DATA__ JSON."""
@@ -151,8 +152,7 @@ def generate_feed(
     xml_bytes = fg.rss_str(pretty=True)
 
     self_url = "https://doguskidik.github.io/newsletters-rss-feeds/feeds/the_batch.xml"
-    if icon_url:
-        xml_bytes = _post_process(xml_bytes, icon_url, self_url)
+    xml_bytes = _post_process(xml_bytes, FEED_ICON_URL, self_url)
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, "wb") as f:
