@@ -90,6 +90,7 @@ def generate_feed(articles: list[dict], output_path: str) -> None:
     fg = FeedGenerator()
     fg.title("The Batch Newsletter")
     fg.link(href=f"{BASE_URL}/the-batch/", rel="alternate")
+    fg.link(href="https://doguskidik.github.io/newsletters-rss-feeds/feeds/the_batch.xml", rel="self")
     fg.description("AI news and insights from deeplearning.ai")
     fg.language("en")
 
