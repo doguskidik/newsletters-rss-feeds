@@ -7,117 +7,122 @@
     <atom:link href="https://doguskidik.github.io/newsletters-rss-feeds/feeds/the_batch.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://charonhub.deeplearning.ai/content/images/2021/04/LogoFiles_DeepLearning_PrimaryLogo.png</url>
+      <title>The Batch Newsletter</title>
+      <link>https://www.deeplearning.ai/the-batch/</link>
+    </image>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Mar 2026 09:46:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 09:46:44 +0000</lastBuildDate>
     <item>
       <title>Safer (and Sexier) Chatbots, Better Images Through Reasoning, The Dawn of Industrial AI, Forecasting Time Series</title>
       <link>https://www.deeplearning.ai/the-batch/issue-327/</link>
-      <description>The Batch AI News and Insights: I recently received an email titled “An 18-year-old’s dilemma: Too late to contribute to AI?” Its author, who gave me permission to share this, is preparing for college.</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/11/Don-t-Believe-The-Hype-.png" alt="Safer (and Sexier) Chatbots, Better Images Through Reasoning, The Dawn of Industrial AI, Forecasting Time Series"&gt;&lt;br&gt;The Batch AI News and Insights: I recently received an email titled “An 18-year-old’s dilemma: Too late to contribute to AI?” Its author, who gave me permission to share this, is preparing for college.</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-327/</guid>
       <pubDate>Wed, 12 Nov 2025 12:32:00 -0800</pubDate>
     </item>
     <item>
       <title>Self-Driving On U.S. Freeways, Open LLM Tops Agentic Leaderboard, Anthropic Sparks Controversy, Efficient Agentic Search</title>
       <link>https://www.deeplearning.ai/the-batch/issue-328/</link>
-      <description>The Batch AI News and Insights: I just got back from AI Dev x NYC, the AI developer conference where our community gathers for a day of coding, learning, and connecting.</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/11/What-We-Learned-at-AI-Dev-x-NYC-2025-1.png" alt="Self-Driving On U.S. Freeways, Open LLM Tops Agentic Leaderboard, Anthropic Sparks Controversy, Efficient Agentic Search"&gt;&lt;br&gt;The Batch AI News and Insights: I just got back from AI Dev x NYC, the AI developer conference where our community gathers for a day of coding, learning, and connecting.</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-328/</guid>
       <pubDate>Wed, 19 Nov 2025 11:48:00 -0800</pubDate>
     </item>
     <item>
       <title>Google Rules Arena Leaderboards, Microsoft+Anthropic, Record Labels Back AI Music, Personality Control for LLMs</title>
       <link>https://www.deeplearning.ai/the-batch/issue-329/</link>
-      <description>The Batch AI News and Insights: Is there an AI bubble? With the massive number of dollars going into AI infrastructure such as OpenAI’s $1.4 trillion plan and Nvidia briefly reaching a $5 trillion market cap, many have asked if speculation and hype have driven the values of...</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/11/Understanding-the-AI-Bubble---If-There-Is-One.png" alt="Google Rules Arena Leaderboards, Microsoft+Anthropic, Record Labels Back AI Music, Personality Control for LLMs"&gt;&lt;br&gt;The Batch AI News and Insights: Is there an AI bubble? With the massive number of dollars going into AI infrastructure such as OpenAI’s $1.4 trillion plan and Nvidia briefly reaching a $5 trillion market cap, many have asked if speculation and hype have driven the values of...</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-329/</guid>
       <pubDate>Wed, 26 Nov 2025 13:13:00 -0800</pubDate>
     </item>
     <item>
       <title>Meta’s Open 3D Pipeline, World Labs’ Virtual Spaces, Baidu’s Multimodal Models, Coordinating Robot Teams</title>
       <link>https://www.deeplearning.ai/the-batch/issue-330/</link>
-      <description>The Batch AI News and Insights: Separate reports by the publicity firm Edelman and Pew Research show that Americans, and more broadly large parts of Europe and the western world, do not trust AI and are not excited about it.</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/12/Why-People-Don-t-Trust-AI-and-What-To-Do-About-It-1.png" alt="Meta’s Open 3D Pipeline, World Labs’ Virtual Spaces, Baidu’s Multimodal Models, Coordinating Robot Teams"&gt;&lt;br&gt;The Batch AI News and Insights: Separate reports by the publicity firm Edelman and Pew Research show that Americans, and more broadly large parts of Europe and the western world, do not trust AI and are not excited about it.</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-330/</guid>
       <pubDate>Wed, 03 Dec 2025 12:22:25 -0800</pubDate>
     </item>
     <item>
       <title>Claude Opus 4.5 Saves Tokens, White House Boosts AI-Powered Science, Amazon Exposes Nova 2 Pro Checkpoints, Small Models Solve Hard Puzzles</title>
       <link>https://www.deeplearning.ai/the-batch/issue-331/</link>
-      <description>The Batch AI News and Insights: If you have not yet built an agentic workflow, I encourage you to try doing so, using the simple recipe I’ll share here!</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/12/Build-an-Autonomous-Agent-Using-This-Simple-Recipe--1.png" alt="Claude Opus 4.5 Saves Tokens, White House Boosts AI-Powered Science, Amazon Exposes Nova 2 Pro Checkpoints, Small Models Solve Hard Puzzles"&gt;&lt;br&gt;The Batch AI News and Insights: If you have not yet built an agentic workflow, I encourage you to try doing so, using the simple recipe I’ll share here!</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-331/</guid>
       <pubDate>Wed, 10 Dec 2025 12:45:00 -0800</pubDate>
     </item>
     <item>
       <title>OpenAI’s Answer to Gemini 3, Runway’s Interactive Worlds, Disney’s Alliance With OpenAI, Adapting LLMs for Low-Data Domains</title>
       <link>https://www.deeplearning.ai/the-batch/issue-332/</link>
-      <description>The Batch AI News and Insights: As amazing as LLMs are, improving their knowledge today involves a more piecemeal process than is widely appreciated.</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/12/unnamed--74--1.jpg" alt="OpenAI’s Answer to Gemini 3, Runway’s Interactive Worlds, Disney’s Alliance With OpenAI, Adapting LLMs for Low-Data Domains"&gt;&lt;br&gt;The Batch AI News and Insights: As amazing as LLMs are, improving their knowledge today involves a more piecemeal process than is widely appreciated.</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-332/</guid>
       <pubDate>Wed, 17 Dec 2025 12:18:52 -0800</pubDate>
     </item>
     <item>
       <title>Top Stories of 2025! Big AI Poaches Talent, Reasoning Models Boost Performance, Agents Write Code, Data Centers Drive GDP, China Turns the Tables</title>
       <link>https://www.deeplearning.ai/the-batch/issue-333/</link>
-      <description>The Batch AI News and Insights: Another year of rapid AI advances has created more opportunities than ever for anyone — including those just entering the field — to build software.</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2025/12/How-to-Gain-New-Skills-and-Sharpen-Old-Ones.jpg" alt="Top Stories of 2025! Big AI Poaches Talent, Reasoning Models Boost Performance, Agents Write Code, Data Centers Drive GDP, China Turns the Tables"&gt;&lt;br&gt;The Batch AI News and Insights: Another year of rapid AI advances has created more opportunities than ever for anyone — including those just entering the field — to build software.</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-333/</guid>
       <pubDate>Fri, 26 Dec 2025 05:57:00 -0800</pubDate>
     </item>
     <item>
       <title>New Year Special! Hopes for 2026 from David Cox, Adji Bousso Dieng, Juan M. Lavista Ferres, Tanmay Gupta, Pengtao Xie, Sharon Zhou</title>
       <link>https://www.deeplearning.ai/the-batch/issue-334/</link>
-      <description>The Batch AI News and Insights: Happy 2026! Will this be the year we finally achieve AGI? I’d like to propose a new version of the Turing Test, which I’ll call the Turing-AGI Test, to see if we’ve achieved this.</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2026/01/How-to-Test-for-Artificial-General-Intelligence-1.png" alt="New Year Special! Hopes for 2026 from David Cox, Adji Bousso Dieng, Juan M. Lavista Ferres, Tanmay Gupta, Pengtao Xie, Sharon Zhou"&gt;&lt;br&gt;The Batch AI News and Insights: Happy 2026! Will this be the year we finally achieve AGI? I’d like to propose a new version of the Turing Test, which I’ll call the Turing-AGI Test, to see if we’ve achieved this.</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-334/</guid>
       <pubDate>Fri, 02 Jan 2026 11:05:18 -0800</pubDate>
     </item>
     <item>
       <title>LLMs Go To Confession, Automated Scientific Research, What Copilot Users Want, Reasoning For Less</title>
       <link>https://www.deeplearning.ai/the-batch/issue-335/</link>
-      <description>The Batch AI News and Insights: We just launched a course that shows people who have never coded before, in less than 30 minutes, how to describe an idea for an app and build it using AI.</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2026/01/Build-with-Andrew-.png" alt="LLMs Go To Confession, Automated Scientific Research, What Copilot Users Want, Reasoning For Less"&gt;&lt;br&gt;The Batch AI News and Insights: We just launched a course that shows people who have never coded before, in less than 30 minutes, how to describe an idea for an app and build it using AI.</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-335/</guid>
       <pubDate>Fri, 09 Jan 2026 06:24:42 -0800</pubDate>
     </item>
     <item>
       <title>Governments vs. Grok, Meta Buys Agent Tech, Healthcare Chatbots, Limits of AI-Powered Retrieval</title>
       <link>https://www.deeplearning.ai/the-batch/issue-336/</link>
-      <description>The Batch AI News and Insights: Many people are fighting the growth of data centers because they could increase CO2 emissions, electricity prices, and water use.</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2026/01/2026.01.16-LETTER-2.jpg" alt="Governments vs. Grok, Meta Buys Agent Tech, Healthcare Chatbots, Limits of AI-Powered Retrieval"&gt;&lt;br&gt;The Batch AI News and Insights: Many people are fighting the growth of data centers because they could increase CO2 emissions, electricity prices, and water use.</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-336/</guid>
       <pubDate>Fri, 16 Jan 2026 07:32:29 -0800</pubDate>
     </item>
     <item>
       <title>Self-Driving Reasoning Models, ChatGPT Adds Ads, Apple’s Deal with Google, 3D Generation Pronto</title>
       <link>https://www.deeplearning.ai/the-batch/issue-337/</link>
-      <description>The Batch AI News and Insights: How can businesses go beyond using AI for incremental efficiency gains to create transformative impact?</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2026/01/From-AI-Experiments-to-AI-Products-1.png" alt="Self-Driving Reasoning Models, ChatGPT Adds Ads, Apple’s Deal with Google, 3D Generation Pronto"&gt;&lt;br&gt;The Batch AI News and Insights: How can businesses go beyond using AI for incremental efficiency gains to create transformative impact?</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-337/</guid>
       <pubDate>Fri, 23 Jan 2026 09:17:14 -0800</pubDate>
     </item>
     <item>
       <title>Agents Go Shopping, Intelligence Redefined, Better Text in Pictures, Higher Engagement Means Worse Alignment</title>
       <link>https://www.deeplearning.ai/the-batch/issue-338/</link>
-      <description>The Batch AI News and Insights: U.S. policies are driving allies away from using American AI technology.</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2026/01/AndrewLetter_01-30c_1200px-1.jpg" alt="Agents Go Shopping, Intelligence Redefined, Better Text in Pictures, Higher Engagement Means Worse Alignment"&gt;&lt;br&gt;The Batch AI News and Insights: U.S. policies are driving allies away from using American AI technology.</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-338/</guid>
       <pubDate>Fri, 30 Jan 2026 06:56:18 -0800</pubDate>
     </item>
     <item>
       <title>OpenClaw Runs Amok, Kimi’s Open Model, Ministral Distilled, Wikipedia’s Partners</title>
       <link>https://www.deeplearning.ai/the-batch/issue-339/</link>
-      <description>The Batch AI News and Insights: Job seekers in the U.S. and many other nations face a tough environment.</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2026/02/Job-seekers-in-the-U.S.-and-many-other-nations-face-a-tough-environment.-1.png" alt="OpenClaw Runs Amok, Kimi’s Open Model, Ministral Distilled, Wikipedia’s Partners"&gt;&lt;br&gt;The Batch AI News and Insights: Job seekers in the U.S. and many other nations face a tough environment.</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-339/</guid>
       <pubDate>Fri, 06 Feb 2026 07:35:16 -0800</pubDate>
     </item>
     <item>
       <title>Claude Opus 4.6 Thinks Smarter, xAI Joins SpaceX, AI Outperforms Doctors, Standardized AI Audits</title>
       <link>https://www.deeplearning.ai/the-batch/issue-340/</link>
-      <description>The Batch AI News and Insights: I recently spoke at the Sundance Film Festival on a panel about AI.</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2026/02/Why-Hollywood-Worries-About-AI.png" alt="Claude Opus 4.6 Thinks Smarter, xAI Joins SpaceX, AI Outperforms Doctors, Standardized AI Audits"&gt;&lt;br&gt;The Batch AI News and Insights: I recently spoke at the Sundance Film Festival on a panel about AI.</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-340/</guid>
       <pubDate>Fri, 13 Feb 2026 06:14:40 -0800</pubDate>
     </item>
     <item>
       <title>The New Open-Weights Leader, Big AI’s Political Influence, Predicting Illness, Faster Reasoning</title>
       <link>https://www.deeplearning.ai/the-batch/issue-341/</link>
-      <description>The Batch AI News and Insights: Will AI create new job opportunities? My daughter Nova loves cats, and her favorite color is yellow.</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2026/02/-Will-AI-create-new-job-opportunities-.png" alt="The New Open-Weights Leader, Big AI’s Political Influence, Predicting Illness, Faster Reasoning"&gt;&lt;br&gt;The Batch AI News and Insights: Will AI create new job opportunities? My daughter Nova loves cats, and her favorite color is yellow.</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-341/</guid>
       <pubDate>Fri, 20 Feb 2026 07:14:24 -0800</pubDate>
     </item>
     <item>
       <title>Gemini Seizes the Lead, Investors Panic Over Agentic AI, Optimism at Global AI Summit, Local Versus Cloud</title>
       <link>https://www.deeplearning.ai/the-batch/issue-342/</link>
-      <description>The Batch AI News and Insights: We just released a Skill Builder tool to help you understand in which areas of AI you’re strong, where you can learn more, and what to do next to keep building your skills.</description>
+      <description>&lt;img src="https://charonhub.deeplearning.ai/content/images/2026/02/Skill-Builder-tool.png" alt="Gemini Seizes the Lead, Investors Panic Over Agentic AI, Optimism at Global AI Summit, Local Versus Cloud"&gt;&lt;br&gt;The Batch AI News and Insights: We just released a Skill Builder tool to help you understand in which areas of AI you’re strong, where you can learn more, and what to do next to keep building your skills.</description>
       <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-342/</guid>
       <pubDate>Fri, 27 Feb 2026 06:59:06 -0800</pubDate>
     </item>

@@ -7,6 +7,7 @@ Scrapes deeplearning.ai/the-batch via __NEXT_DATA__ JSON and generates RSS feed
 import json
 import os
 from datetime import datetime, timezone
+from typing import Optional
 
 import requests
 from bs4 import BeautifulSoup
@@ -17,11 +18,8 @@ PAGE_URL = BASE_URL + "/the-batch/page/{page}/"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; RSSBot/1.0)"}
 
 
-def fetch_page_posts(page: int) -> tuple[list[dict], int]:
-    """Fetch posts from a single page via __NEXT_DATA__ JSON.
-
-    Returns (posts, total_pages).
-    """
+def fetch_page_data(page: int) -> dict:
+    """Fetch raw pageProps from a single page via __NEXT_DATA__ JSON."""
     url = PAGE_URL.format(page=page)
     resp = requests.get(url, headers=HEADERS, timeout=30)
     resp.raise_for_status()
@@ -31,9 +29,7 @@ def fetch_page_posts(page: int) -> tuple[list[dict], int]:
     if not script:
         raise ValueError(f"__NEXT_DATA__ not found on {url}")
 
-    data = json.loads(script.string)
-    page_props = data["props"]["pageProps"]
-    return page_props["posts"], page_props["totalPages"]
+    return json.loads(script.string)["props"]["pageProps"]
 
 
 def parse_post(post: dict) -> dict:
@@ -60,18 +56,27 @@ def parse_post(post: dict) -> dict:
     }
 
 
-def scrape_the_batch(max_pages: int = 1) -> list[dict]:
+def scrape_the_batch(max_pages: int = 1) -> tuple:
     """Scrape The Batch newsletter.
 
     Args:
         max_pages: Number of pages to fetch (each page has ~16 issues).
+
+    Returns (articles, feed_logo_url).
     """
     articles = []
     total_pages = None
+    logo_url = None
 
     for page in range(1, max_pages + 1):
         try:
-            posts, total_pages = fetch_page_posts(page)
+            page_props = fetch_page_data(page)
+            posts = page_props["posts"]
+            total_pages = page_props["totalPages"]
+
+            if logo_url is None:
+                logo_url = page_props.get("settings", {}).get("logo")
+
             for post in posts:
                 articles.append(parse_post(post))
             print(f"  Page {page}/{total_pages}: fetched {len(posts)} posts")
@@ -82,10 +87,10 @@ def scrape_the_batch(max_pages: int = 1) -> list[dict]:
         if total_pages is not None and page >= total_pages:
             break
 
-    return articles
+    return articles, logo_url
 
 
-def generate_feed(articles: list[dict], output_path: str) -> None:
+def generate_feed(articles: list, output_path: str, logo_url: Optional[str] = None) -> None:
     """Generate RSS feed from articles."""
     fg = FeedGenerator()
     fg.title("The Batch Newsletter")
@@ -94,11 +99,19 @@ def generate_feed(articles: list[dict], output_path: str) -> None:
     fg.description("AI news and insights from deeplearning.ai")
     fg.language("en")
 
+    if logo_url:
+        fg.image(url=logo_url, title="The Batch Newsletter", link=f"{BASE_URL}/the-batch/")
+
     for article in articles:
         fe = fg.add_entry()
         fe.title(article["title"])
         fe.link(href=article["link"])
-        fe.description(article["description"])
+        image = article.get("image")
+        if image:
+            description = f'<img src="{image}" alt="{article["title"]}"><br>{article["description"]}'
+        else:
+            description = article["description"]
+        fe.description(description)
         fe.published(article["pub_date"])
         fe.guid(article["link"], permalink=True)
 
@@ -110,11 +123,11 @@ def generate_feed(articles: list[dict], output_path: str) -> None:
 
 def main():
     print("Scraping The Batch newsletter...")
-    articles = scrape_the_batch(max_pages=1)
+    articles, logo_url = scrape_the_batch(max_pages=1)
 
     if articles:
         output_path = os.path.join(os.path.dirname(__file__), "..", "feeds", "the_batch.xml")
-        generate_feed(articles, output_path)
+        generate_feed(articles, output_path, logo_url)
     else:
         print("⚠ No articles found")
 
