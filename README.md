@@ -89,8 +89,7 @@ if __name__ == "__main__":
 newsletters-rss-feeds/
 ├── .github/workflows/update.yml   # Runs every 6 hours
 ├── scrapers/
-│   ├── the_batch.py               # DeepLearning.AI – The Batch
-│   └── bbc_learning.py            # BBC Learning English (WIP)
+│   └── the_batch.py               # DeepLearning.AI – The Batch
 ├── feeds/
 │   └── the_batch.xml              # Generated RSS feeds
 ├── run_all.py                     # Discovers and runs all scrapers
