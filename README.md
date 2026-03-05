@@ -7,6 +7,7 @@ Automatically converts newsletters into RSS feeds using GitHub Actions and GitHu
 | Newsletter | Feed URL |
 |---|---|
 | <img src="https://www.deeplearning.ai/static/favicons/apple-touch-icon.png" width="20"> **The Batch** (DeepLearning.AI) | `https://doguskidik.github.io/newsletters-rss-feeds/feeds/the_batch.xml` |
+| <img src="https://www.therundown.ai/apple-touch-icon.png" width="20"> **The Rundown AI** | `https://doguskidik.github.io/newsletters-rss-feeds/feeds/the_rundown_ai.xml` |
 
 ## How It Works
 
@@ -89,9 +90,11 @@ if __name__ == "__main__":
 newsletters-rss-feeds/
 ├── .github/workflows/update.yml   # Runs every 6 hours
 ├── scrapers/
-│   └── the_batch.py               # DeepLearning.AI – The Batch
+│   ├── the_batch.py               # DeepLearning.AI – The Batch
+│   └── the_rundown_ai.py          # The Rundown AI
 ├── feeds/
-│   └── the_batch.xml              # Generated RSS feeds
+│   ├── the_batch.xml              # Generated RSS feeds
+│   └── the_rundown_ai.xml
 ├── run_all.py                     # Discovers and runs all scrapers
 └── requirements.txt
 ```
