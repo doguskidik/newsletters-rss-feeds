@@ -8,6 +8,7 @@ Automatically converts newsletters into RSS feeds using GitHub Actions and GitHu
 |---|---|
 | <img src="https://www.deeplearning.ai/static/favicons/apple-touch-icon.png" width="20"> **The Batch** (DeepLearning.AI) | `https://doguskidik.github.io/newsletters-rss-feeds/feeds/the_batch.xml` |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://therundown.ai&size=128" width="20"> **The Rundown AI** | `https://doguskidik.github.io/newsletters-rss-feeds/feeds/the_rundown_ai.xml` |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tldr.tech&size=128" width="20"> **TLDR AI** | `https://doguskidik.github.io/newsletters-rss-feeds/feeds/tldr_ai.xml` |
 
 ## How It Works
 
@@ -91,10 +92,12 @@ newsletters-rss-feeds/
 ├── .github/workflows/update.yml   # Runs every 6 hours
 ├── scrapers/
 │   ├── the_batch.py               # DeepLearning.AI – The Batch
-│   └── the_rundown_ai.py          # The Rundown AI
+│   ├── the_rundown_ai.py          # The Rundown AI
+│   └── tldr_ai.py                 # TLDR AI
 ├── feeds/
 │   ├── the_batch.xml              # Generated RSS feeds
-│   └── the_rundown_ai.xml
+│   ├── the_rundown_ai.xml
+│   └── tldr_ai.xml
 ├── run_all.py                     # Discovers and runs all scrapers
 └── requirements.txt
 ```
