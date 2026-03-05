@@ -19,7 +19,7 @@ BASE_URL = "https://www.therundown.ai"
 SITEMAP_URL = BASE_URL + "/sitemap.xml"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; RSSBot/1.0)"}
 FEED_URL = BASE_URL + "/"
-FEED_ICON_URL = "https://www.therundown.ai/apple-touch-icon.png"
+FEED_ICON_URL = "https://icons.duckduckgo.com/ip3/therundown.ai.ico"
 MAX_POSTS = 50
 
 

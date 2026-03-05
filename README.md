@@ -7,7 +7,7 @@ Automatically converts newsletters into RSS feeds using GitHub Actions and GitHu
 | Newsletter | Feed URL |
 |---|---|
 | <img src="https://www.deeplearning.ai/static/favicons/apple-touch-icon.png" width="20"> **The Batch** (DeepLearning.AI) | `https://doguskidik.github.io/newsletters-rss-feeds/feeds/the_batch.xml` |
-| <img src="https://www.therundown.ai/apple-touch-icon.png" width="20"> **The Rundown AI** | `https://doguskidik.github.io/newsletters-rss-feeds/feeds/the_rundown_ai.xml` |
+| <img src="https://icons.duckduckgo.com/ip3/therundown.ai.ico" width="20"> **The Rundown AI** | `https://doguskidik.github.io/newsletters-rss-feeds/feeds/the_rundown_ai.xml` |
 
 ## How It Works
 
