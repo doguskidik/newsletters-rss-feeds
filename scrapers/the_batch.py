@@ -16,6 +16,7 @@ from lxml import etree
 BASE_URL = "https://www.deeplearning.ai"
 PAGE_URL = BASE_URL + "/the-batch/page/{page}/"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; RSSBot/1.0)"}
+FEED_URL = BASE_URL + "/the-batch/"
 FEED_ICON_URL = "https://www.deeplearning.ai/static/favicons/apple-touch-icon.png"
 
 
@@ -82,65 +83,54 @@ def scrape_the_batch() -> list:
     return articles
 
 
-def _post_process(xml_bytes: bytes, self_url: str) -> bytes:
-    """Post-process RSS XML to fix channel link and set icon URLs."""
+def _get_self_url() -> str:
+    """Determine the feed's self URL from environment or fallback."""
+    repo = os.environ.get("GITHUB_REPOSITORY", "")
+    if repo and "/" in repo:
+        owner, repo_name = repo.split("/", 1)
+        return f"https://{owner}.github.io/{repo_name}/feeds/the_batch.xml"
+    return FEED_URL
+
+
+def _post_process(xml_bytes: bytes) -> bytes:
+    """Fix channel <link>: feedgen sets it to self URL instead of website URL."""
     root = etree.fromstring(xml_bytes)
     channel = root.find("channel")
-
-    # Fix channel <link>: feedgen puts self URL there; replace with website URL
     link_elem = channel.find("link")
     if link_elem is not None:
-        link_elem.text = f"{BASE_URL}/the-batch/"
-
-    # Fix <atom:link rel="self">
-    ATOM_NS = "http://www.w3.org/2005/Atom"
-    for atom_link in channel.findall(f"{{{ATOM_NS}}}link"):
-        if atom_link.get("rel") == "self":
-            atom_link.set("href", self_url)
-
-    # Set <image> url and link both to the icon PNG
-    img_elem = channel.find("image")
-    if img_elem is not None:
-        for tag in ("url", "link"):
-            elem = img_elem.find(tag)
-            if elem is not None:
-                elem.text = FEED_ICON_URL
-
+        link_elem.text = FEED_URL
     return etree.tostring(root, pretty_print=True, xml_declaration=True, encoding="UTF-8")
 
 
 def generate_feed(articles: list, output_path: str) -> None:
     """Generate RSS feed from articles."""
+    self_url = _get_self_url()
+
     fg = FeedGenerator()
     fg.title("The Batch Newsletter")
-    fg.link(href=f"{BASE_URL}/the-batch/", rel="alternate")
-    fg.link(href=FEED_ICON_URL, rel="self")
+    fg.link(href=FEED_URL, rel="alternate")
+    fg.link(href=self_url, rel="self")
     fg.description("AI news and insights from deeplearning.ai")
     fg.language("en")
     fg.image(url=FEED_ICON_URL, title="The Batch Newsletter", link=FEED_ICON_URL)
+    fg.ttl(360)
 
-    for article in articles:
+    for article in reversed(articles):  # newest first
         fe = fg.add_entry()
         fe.title(article["title"])
         fe.link(href=article["link"])
+        fe.description(article["description"])  # plain text summary
         image = article.get("image")
         if image:
-            description = f'<img src="{image}" alt="{article["title"]}"><br>{article["description"]}'
+            html = f'<img src="{image}" alt="{article["title"]}"><br><p>{article["description"]}</p>'
         else:
-            description = article["description"]
-        fe.description(description)
+            html = f'<p>{article["description"]}</p>'
+        fe.content(content=html, type="html")  # rich HTML via <content:encoded>
         fe.published(article["pub_date"])
         fe.guid(article["link"], permalink=True)
 
     xml_bytes = fg.rss_str(pretty=True)
-
-    repo = os.environ.get("GITHUB_REPOSITORY", "")
-    if repo and "/" in repo:
-        owner, repo_name = repo.split("/", 1)
-        self_url = f"https://{owner}.github.io/{repo_name}/feeds/the_batch.xml"
-    else:
-        self_url = FEED_ICON_URL
-    xml_bytes = _post_process(xml_bytes, self_url)
+    xml_bytes = _post_process(xml_bytes)
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, "wb") as f:
