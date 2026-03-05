@@ -112,7 +112,7 @@ def generate_feed(articles: list, output_path: str) -> None:
     fg.link(href=self_url, rel="self")
     fg.description("AI news and insights from deeplearning.ai")
     fg.language("en")
-    fg.image(url=FEED_ICON_URL, title="The Batch Newsletter", link=FEED_ICON_URL)
+    fg.image(url=FEED_ICON_URL, title="The Batch Newsletter", link=FEED_URL)
     fg.ttl(360)
 
     for article in reversed(articles):  # newest first
