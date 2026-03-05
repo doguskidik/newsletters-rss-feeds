@@ -110,6 +110,7 @@ def scrape_the_rundown_ai() -> list:
         except Exception as e:
             print(f"  [{i}/{len(posts)}] Error fetching {post['url']}: {e}")
 
+    articles.sort(key=lambda x: x["pub_date"], reverse=True)
     return articles
 
 
@@ -145,7 +146,7 @@ def generate_feed(articles: list, output_path: str) -> None:
     fg.ttl(360)
 
     for article in articles:
-        fe = fg.add_entry()
+        fe = fg.add_entry(order='append')
         fe.title(article["title"])
         fe.link(href=article["url"])
         fe.description(article["description"])
