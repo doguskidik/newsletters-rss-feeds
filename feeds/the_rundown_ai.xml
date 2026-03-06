@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 06:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 12:32:28 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>OpenAI's 'best model ever' goes live</title>
+      <link>https://www.therundown.ai/p/openais-best-model-ever-goes-live</link>
+      <description>OpenAI's new GPT-5.4 model outperforms humans on 83% of job-specific tasks, delivering breakthrough capabilities in math, coding, and reasoning. The company's best model yet.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/84c5451b-1fa8-4391-95b6-ead4f84a5974/gpt54.jpg?t=1772752859" alt="OpenAI's 'best model ever' goes live"&gt;&lt;br&gt;&lt;p&gt;OpenAI's new GPT-5.4 model outperforms humans on 83% of job-specific tasks, delivering breakthrough capabilities in math, coding, and reasoning. The company's best model yet.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/openais-best-model-ever-goes-live</guid>
+      <pubDate>Fri, 06 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Amodei torches OpenAI in leaked memo</title>
       <link>https://www.therundown.ai/p/amodei-torches-openai-in-leaked-memo</link>
@@ -398,14 +406,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3b63f23d-51ef-4072-90c0-1ed4bb068180/manus-meta.jpg?t=1767160441" alt="Meta’s next big AI bet: Manus"&gt;&lt;br&gt;&lt;p&gt;Meta's latest AI acquisition, Manus, hints at a strategic shift towards practical, end-to-end automation across Facebook's ecosystem, signaling a new phase in Zuckerberg's AI ambitions.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/metas-next-big-ai-bet-manus</guid>
       <pubDate>Wed, 31 Dec 2025 10:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>YouTube's 'AI slop' takeover</title>
-      <link>https://www.therundown.ai/p/youtubes-ai-slop-takeover</link>
-      <description>YouTube's AI-generated 'slop' takes over video platforms, with low-effort AI channels capturing 20% of new account views and millions in revenue.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f8a3d43c-dfd3-4b2b-85a0-5ac6be24842e/a935a55e-15b2-4ba2-bb7f-2ca62436c6bb.jpg?t=1767039335" alt="YouTube's 'AI slop' takeover"&gt;&lt;br&gt;&lt;p&gt;YouTube's AI-generated 'slop' takes over video platforms, with low-effort AI channels capturing 20% of new account views and millions in revenue.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/youtubes-ai-slop-takeover</guid>
-      <pubDate>Tue, 30 Dec 2025 10:00:35 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI, Jony Ive join forces in $6.5B acquisition </title>
