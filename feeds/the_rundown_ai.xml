@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 06:41:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 12:35:42 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Perplexity's new answer to OpenClaw</title>
+      <link>https://www.therundown.ai/p/perplexity-new-answer-to-openclaw</link>
+      <description>Perplexity launches AI agent system to rival OpenAI's vision, while Google Workspace Studio enables agentic workflows. Explore the latest AI breakthroughs reshaping automation and productivity tools.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/156d2c62-ae88-4835-8f43-fa192d74d3dd/perplexitypersonalcomputer.jpg?t=1773267069" alt="Perplexity's new answer to OpenClaw"&gt;&lt;br&gt;&lt;p&gt;Perplexity launches AI agent system to rival OpenAI's vision, while Google Workspace Studio enables agentic workflows. Explore the latest AI breakthroughs reshaping automation and productivity tools.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/perplexity-new-answer-to-openclaw</guid>
+      <pubDate>Thu, 12 Mar 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Yann LeCun's $1B bet against LLMs</title>
       <link>https://www.therundown.ai/p/yann-lecun-1b-bet-against-llms</link>
@@ -312,6 +320,22 @@
       <pubDate>Thu, 22 Jan 2026 10:01:27 +0000</pubDate>
     </item>
     <item>
+      <title>AI's top minds converge at World Economic Forum</title>
+      <link>https://www.therundown.ai/p/ai-takes-center-stage-at-davos</link>
+      <description>AI's transformative power takes center stage at Davos, as global leaders discuss the rapid disruption and urgent need for adaptation in the era of artificial intelligence.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/23b1cc41-5583-47cc-ad85-45cbeb7b05ff/davos2026.jpg?t=1768946978" alt="AI's top minds converge at World Economic Forum"&gt;&lt;br&gt;&lt;p&gt;AI's transformative power takes center stage at Davos, as global leaders discuss the rapid disruption and urgent need for adaptation in the era of artificial intelligence.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/ai-takes-center-stage-at-davos</guid>
+      <pubDate>Wed, 21 Jan 2026 10:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧑‍💻 Claude Code's ChatGPT moment for 'selfware'</title>
+      <link>https://www.therundown.ai/p/claude-code-sparks-selfware-era</link>
+      <description>Claude Code sparks 'selfware' revolution, empowering non-developers to create custom apps and transforming software development with AI-driven innovation and accessibility.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/dae2680d-92b9-4aef-ac45-1cc0c05357a9/claudecode-.jpg?t=1768868964" alt="🧑‍💻 Claude Code's ChatGPT moment for 'selfware'"&gt;&lt;br&gt;&lt;p&gt;Claude Code sparks 'selfware' revolution, empowering non-developers to create custom apps and transforming software development with AI-driven innovation and accessibility.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/claude-code-sparks-selfware-era</guid>
+      <pubDate>Tue, 20 Jan 2026 10:00:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Ads are officially coming to ChatGPT</title>
       <link>https://www.therundown.ai/p/ads-are-officially-coming-to-chatgpt</link>
       <description>OpenAI introduces targeted ads to ChatGPT for free users, signaling a bold monetization strategy that could reshape AI platform revenue models and user expectations.</description>
@@ -374,14 +398,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a7b54408-ae4c-488b-998c-e5d7c6bc11e0/chatgpthealth.jpg?t=1767827144" alt="ChatGPT levels up with new personalized Health experience"&gt;&lt;br&gt;&lt;p&gt;ChatGPT's groundbreaking health upgrade integrates personal medical records and fitness data, offering hyper-personalized AI-powered healthcare insights and recommendations.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/chatgpt-levels-up-with-health</guid>
       <pubDate>Thu, 08 Jan 2026 10:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Musk's AI startup hits $230B valuation with massive new raise</title>
-      <link>https://www.therundown.ai/p/xais-massive-new-20b-raise</link>
-      <description>xAI secures massive $20B funding, valuing Elon Musk's AI startup at $230B and positioning Grok for transformative growth with strategic tech integrations.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/258308b7-f8b3-4445-9518-5c149ec0e94b/1767741147659.png?t=1767741161" alt="Musk's AI startup hits $230B valuation with massive new raise"&gt;&lt;br&gt;&lt;p&gt;xAI secures massive $20B funding, valuing Elon Musk's AI startup at $230B and positioning Grok for transformative growth with strategic tech integrations.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/xais-massive-new-20b-raise</guid>
-      <pubDate>Wed, 07 Jan 2026 10:00:12 +0000</pubDate>
     </item>
     <item>
       <title>Alexa+ comes for ChatGPT's web turf with new browser chatbot</title>
