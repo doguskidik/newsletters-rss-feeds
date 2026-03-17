@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 06:52:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 12:44:32 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Nvidia's big AI day at GTC</title>
+      <link>https://www.therundown.ai/p/nvidia-big-ai-day-at-gtc</link>
+      <description>Nvidia's GTC showcases AI breakthroughs with Nemoclaw security stack and next-gen chips. Plus: learn to use Grok for free automated research.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/fe8ec51a-323f-4488-ac9e-d2de34233dbf/jensenclaw.jpg?t=1773700609" alt="Nvidia's big AI day at GTC"&gt;&lt;br&gt;&lt;p&gt;Nvidia's GTC showcases AI breakthroughs with Nemoclaw security stack and next-gen chips. Plus: learn to use Grok for free automated research.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/nvidia-big-ai-day-at-gtc</guid>
+      <pubDate>Tue, 17 Mar 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Musk takes xAI into a full rebuild</title>
       <link>https://www.therundown.ai/p/musk-takes-xai-into-a-full-rebuild</link>
@@ -398,14 +406,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d023cb2b-1871-4126-8e98-395ce91ae733/S9gTp1zuJSTEe6RK.jpeg?t=1768169362" alt="Anthropic blocks xAI's Claude access"&gt;&lt;br&gt;&lt;p&gt;Anthropic blocks xAI's access to Claude AI, escalating tech rivalry as competing labs battle for AI supremacy and strategic model control.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-pulls-plug-on-xais-claude-access</guid>
       <pubDate>Mon, 12 Jan 2026 17:31:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gmail gets a Gemini glow-up with new AI features</title>
-      <link>https://www.therundown.ai/p/gmails-gemini-glow-up</link>
-      <description>PLUS: Microsoft turns Copilot into a checkout counter</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ce57e93c-8fec-4d10-80b9-4944226a7ff6/gmail-ai.jpg?t=1767923701" alt="Gmail gets a Gemini glow-up with new AI features"&gt;&lt;br&gt;&lt;p&gt;PLUS: Microsoft turns Copilot into a checkout counter&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/gmails-gemini-glow-up</guid>
-      <pubDate>Fri, 09 Jan 2026 10:01:31 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI, Jony Ive join forces in $6.5B acquisition </title>
