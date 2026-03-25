@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 06:52:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 12:42:42 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>OpenAI's Sora gets the axe</title>
+      <link>https://www.therundown.ai/p/openai-sora-gets-the-axe</link>
+      <description>OpenAI discontinues Sora video generator, shifting focus to new 'Spud' model and intensifying competition with Anthropic's Claude in enterprise AI.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/dad47cc7-8a57-4e6c-b36b-f88885e1a8c1/sorax.jpg?t=1774390361" alt="OpenAI's Sora gets the axe"&gt;&lt;br&gt;&lt;p&gt;OpenAI discontinues Sora video generator, shifting focus to new 'Spud' model and intensifying competition with Anthropic's Claude in enterprise AI.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/openai-sora-gets-the-axe</guid>
+      <pubDate>Wed, 25 Mar 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic's Claude gets remote control</title>
       <link>https://www.therundown.ai/p/anthropic-claude-gets-remote-control</link>
@@ -398,14 +406,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/dae2680d-92b9-4aef-ac45-1cc0c05357a9/claudecode-.jpg?t=1768868964" alt="🧑‍💻 Claude Code's ChatGPT moment for 'selfware'"&gt;&lt;br&gt;&lt;p&gt;Claude Code sparks 'selfware' revolution, empowering non-developers to create custom apps and transforming software development with AI-driven innovation and accessibility.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/claude-code-sparks-selfware-era</guid>
       <pubDate>Tue, 20 Jan 2026 10:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ads are officially coming to ChatGPT</title>
-      <link>https://www.therundown.ai/p/ads-are-officially-coming-to-chatgpt</link>
-      <description>OpenAI introduces targeted ads to ChatGPT for free users, signaling a bold monetization strategy that could reshape AI platform revenue models and user expectations.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3739dbfe-721d-40a8-a232-b5fb163417c8/adsopenai.jpg?t=1768771549" alt="Ads are officially coming to ChatGPT"&gt;&lt;br&gt;&lt;p&gt;OpenAI introduces targeted ads to ChatGPT for free users, signaling a bold monetization strategy that could reshape AI platform revenue models and user expectations.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/ads-are-officially-coming-to-chatgpt</guid>
-      <pubDate>Mon, 19 Jan 2026 11:00:17 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI, Jony Ive join forces in $6.5B acquisition </title>
