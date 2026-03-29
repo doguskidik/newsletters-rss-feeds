@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 06:53:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 12:32:29 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>An exclusive Q&amp;A with alibaba.com's Kuo Zhang</title>
+      <link>https://www.therundown.ai/p/an-exclusive-q-a-with-alibaba-com-s-kuo-zhang</link>
+      <description>How Accio Work is turning agent teams into operators across real-world workflows.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b7e12ae8-96be-4bf8-bfbc-b7a74b1b50d8/01_cover.png?t=1774450597" alt="An exclusive Q&amp;A with alibaba.com's Kuo Zhang"&gt;&lt;br&gt;&lt;p&gt;How Accio Work is turning agent teams into operators across real-world workflows.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/an-exclusive-q-a-with-alibaba-com-s-kuo-zhang</guid>
+      <pubDate>Sun, 29 Mar 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Meta's new open-source brain AI </title>
       <link>https://www.therundown.ai/p/meta-new-open-source-brain-ai</link>
@@ -398,14 +406,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/9e7a8d63-fe77-4377-80c6-863a512ca4eb/mirasambarrett.jpg?t=1769126944" alt="Inside the Thinking Machines meltdown"&gt;&lt;br&gt;&lt;p&gt;Inside Thinking Machines' dramatic implosion: OpenAI's strategic moves, hidden tensions, and the fallout that reshaped the AI talent landscape.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/inside-the-thinking-machines-meltdown</guid>
       <pubDate>Fri, 23 Jan 2026 10:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic writes Claude's Constitution</title>
-      <link>https://www.therundown.ai/p/anthropic-writes-claudes-constitution</link>
-      <description>Anthropic unveils Claude's comprehensive AI constitution, revealing the complex ethical framework and philosophical challenges behind creating a principled, transparent artificial intelligence system.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/37f813f4-9a13-459c-8185-cd79fa4f7729/Robot_with_Starburst_Pin_Only.png?t=1769044176" alt="Anthropic writes Claude's Constitution"&gt;&lt;br&gt;&lt;p&gt;Anthropic unveils Claude's comprehensive AI constitution, revealing the complex ethical framework and philosophical challenges behind creating a principled, transparent artificial intelligence system.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-writes-claudes-constitution</guid>
-      <pubDate>Thu, 22 Jan 2026 10:01:27 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI, Jony Ive join forces in $6.5B acquisition </title>
