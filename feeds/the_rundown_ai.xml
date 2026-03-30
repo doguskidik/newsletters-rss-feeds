@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 07:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 12:53:42 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Anthropic's secret 'Mythos' model </title>
+      <link>https://www.therundown.ai/p/anthropic-secret-mythos-model</link>
+      <description>Anthropic's secret 'Mythos' model leaks via CMS error, revealing an advanced AI tier with cybersecurity capabilities surpassing current frontier models.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f92634a2-7a62-4dbc-97ce-8211847e3556/mythos.jpg?t=1774825592" alt="Anthropic's secret 'Mythos' model "&gt;&lt;br&gt;&lt;p&gt;Anthropic's secret 'Mythos' model leaks via CMS error, revealing an advanced AI tier with cybersecurity capabilities surpassing current frontier models.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-secret-mythos-model</guid>
+      <pubDate>Mon, 30 Mar 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>An exclusive Q&amp;A with alibaba.com's Kuo Zhang</title>
       <link>https://www.therundown.ai/p/an-exclusive-q-a-with-alibaba-com-s-kuo-zhang</link>
@@ -398,14 +406,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d9397540-5a95-4776-b3a9-51a57b6b415b/claudeexcel.jpg?t=1769378252" alt="Anthropic expands its spreadsheet push with Claude for Excel"&gt;&lt;br&gt;&lt;p&gt;Claude for Excel breaks productivity barriers, bringing AI-powered assistance directly into spreadsheets and transforming workflows for millions of knowledge workers worldwide.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/claude-for-excel-opens-the-gates</guid>
       <pubDate>Mon, 26 Jan 2026 10:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the Thinking Machines meltdown</title>
-      <link>https://www.therundown.ai/p/inside-the-thinking-machines-meltdown</link>
-      <description>Inside Thinking Machines' dramatic implosion: OpenAI's strategic moves, hidden tensions, and the fallout that reshaped the AI talent landscape.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/9e7a8d63-fe77-4377-80c6-863a512ca4eb/mirasambarrett.jpg?t=1769126944" alt="Inside the Thinking Machines meltdown"&gt;&lt;br&gt;&lt;p&gt;Inside Thinking Machines' dramatic implosion: OpenAI's strategic moves, hidden tensions, and the fallout that reshaped the AI talent landscape.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/inside-the-thinking-machines-meltdown</guid>
-      <pubDate>Fri, 23 Jan 2026 10:00:14 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI, Jony Ive join forces in $6.5B acquisition </title>
