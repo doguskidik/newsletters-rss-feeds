@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 07:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 12:47:13 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Dorsey makes the AI case against managers</title>
+      <link>https://www.therundown.ai/p/dorsey-makes-the-ai-case-against-managers</link>
+      <description>PLUS: Build a productivity tool with Replit </description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/be8a1bee-c699-427c-ac73-c9c73343e019/blockdorsey.jpg?t=1775072791" alt="Dorsey makes the AI case against managers"&gt;&lt;br&gt;&lt;p&gt;PLUS: Build a productivity tool with Replit &lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/dorsey-makes-the-ai-case-against-managers</guid>
+      <pubDate>Thu, 02 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI’s new $122B funding, 'superapp'</title>
       <link>https://www.therundown.ai/p/openai-new-122b-funding-superapp</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a710fa6a-e058-4410-8b55-ab6bbca4453a/lobster.jpg?t=1769552661" alt="Viral AI agent molts past trademark trouble"&gt;&lt;br&gt;&lt;p&gt;PLUS: Moonshot’s K2.5 open-source model rivals frontier labs&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/viral-ai-agent-molts-past-trademark-trouble</guid>
       <pubDate>Wed, 28 Jan 2026 10:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic CEO's new essay warns of AI's civilizational risks</title>
-      <link>https://www.therundown.ai/p/anthropic-ceo-confronts-ais-dangers</link>
-      <description>Anthropic's CEO warns of AI's critical crossroads, revealing humanity's pivotal choice between transformative potential and existential risk in the next crucial years.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4381c08d-d62c-4661-9521-5015cf5505d8/1769465228772.png?t=1769469731" alt="Anthropic CEO's new essay warns of AI's civilizational risks"&gt;&lt;br&gt;&lt;p&gt;Anthropic's CEO warns of AI's critical crossroads, revealing humanity's pivotal choice between transformative potential and existential risk in the next crucial years.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-ceo-confronts-ais-dangers</guid>
-      <pubDate>Tue, 27 Jan 2026 10:00:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
