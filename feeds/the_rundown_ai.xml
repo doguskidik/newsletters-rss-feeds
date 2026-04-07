@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 07:04:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 12:56:37 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Sam Altman's new 'social contract' for AI</title>
+      <link>https://www.therundown.ai/p/sam-altman-new-social-contract-for-ai</link>
+      <description>Sam Altman proposes a "social contract" for AI: robot taxes, wealth funds, and a 4-day workweek to prepare society for unstoppable artificial intelligence.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/87e88168-a982-4274-a686-c086698e2cd8/industrialpolicy.jpg?t=1775516122" alt="Sam Altman's new 'social contract' for AI"&gt;&lt;br&gt;&lt;p&gt;Sam Altman proposes a "social contract" for AI: robot taxes, wealth funds, and a 4-day workweek to prepare society for unstoppable artificial intelligence.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/sam-altman-new-social-contract-for-ai</guid>
+      <pubDate>Tue, 07 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic tells OpenClaw users to pay up</title>
       <link>https://www.therundown.ai/p/anthropic-tells-openclaw-users-to-pay-up</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/faf4c407-1dac-4e49-81e5-657714e67e13/moltbook.jpg?t=1769985314" alt="AI agents get their own social network"&gt;&lt;br&gt;&lt;p&gt;AI agents create their own social network Moltbook, sparking wild interactions and raising questions about AI autonomy, communication, and unexpected digital behaviors.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/ai-agents-get-their-own-social-network</guid>
       <pubDate>Mon, 02 Feb 2026 10:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grok Imagine Tops Video Leaderboards: xAI's AI Creative Leap</title>
-      <link>https://www.therundown.ai/p/xais-grok-imagine-climbs-the-leaderboards</link>
-      <description>xAI's Grok Imagine rockets to the top of video leaderboards, setting new standards for AI image and video generation with unmatched speed, affordability, and creative quality.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/9055e8ec-6396-4240-af16-aa79200edbe4/imagineleaderboard.jpg?t=1769738338" alt="Grok Imagine Tops Video Leaderboards: xAI's AI Creative Leap"&gt;&lt;br&gt;&lt;p&gt;xAI's Grok Imagine rockets to the top of video leaderboards, setting new standards for AI image and video generation with unmatched speed, affordability, and creative quality.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/xais-grok-imagine-climbs-the-leaderboards</guid>
-      <pubDate>Fri, 30 Jan 2026 10:00:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
