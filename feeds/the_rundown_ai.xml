@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 07:06:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 12:57:00 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Anthropic's new AI is too powerful for the world</title>
+      <link>https://www.therundown.ai/p/anthropic-new-ai-is-too-powerful-for-the-world</link>
+      <description>Anthropic's new Claude Mythos AI is too powerful for public release, sparking debate about AI safety as it's deployed through a defensive cybersecurity coalition instead.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4392c1b0-9630-4baa-b5c5-3cd7ddeb057a/glasswing.jpg?t=1775610581" alt="Anthropic's new AI is too powerful for the world"&gt;&lt;br&gt;&lt;p&gt;Anthropic's new Claude Mythos AI is too powerful for public release, sparking debate about AI safety as it's deployed through a defensive cybersecurity coalition instead.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-new-ai-is-too-powerful-for-the-world</guid>
+      <pubDate>Wed, 08 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sam Altman's new 'social contract' for AI</title>
       <link>https://www.therundown.ai/p/sam-altman-new-social-contract-for-ai</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c6968ff7-a66e-4956-9ec9-cc060ac786f0/1770074164289.png?t=1770075471" alt="xAI joins SpaceX in mega-merger"&gt;&lt;br&gt;&lt;p&gt;Elon Musk merges xAI and SpaceX into a $1.25T powerhouse, pioneering space-based compute and reshaping the future of AI infrastructure with an unprecedented strategic vision.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/xai-joins-spacex-in-mega-merger</guid>
       <pubDate>Tue, 03 Feb 2026 10:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI agents get their own social network</title>
-      <link>https://www.therundown.ai/p/ai-agents-get-their-own-social-network</link>
-      <description>AI agents create their own social network Moltbook, sparking wild interactions and raising questions about AI autonomy, communication, and unexpected digital behaviors.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/faf4c407-1dac-4e49-81e5-657714e67e13/moltbook.jpg?t=1769985314" alt="AI agents get their own social network"&gt;&lt;br&gt;&lt;p&gt;AI agents create their own social network Moltbook, sparking wild interactions and raising questions about AI autonomy, communication, and unexpected digital behaviors.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/ai-agents-get-their-own-social-network</guid>
-      <pubDate>Mon, 02 Feb 2026 10:00:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
