@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 07:10:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 18:49:25 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Meta Superintelligence Labs ships its first model</title>
+      <link>https://www.therundown.ai/p/meta-superintelligence-labs-ships-its-first-model</link>
+      <description>Meta Superintelligence Labs releases its first AI model, positioning the tech giant back in the competitive race with powerful new capabilities and resources.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/141d7907-b72c-47d1-8624-1f6d7515f126/musespark.jpg?t=1775696204" alt="Meta Superintelligence Labs ships its first model"&gt;&lt;br&gt;&lt;p&gt;Meta Superintelligence Labs releases its first AI model, positioning the tech giant back in the competitive race with powerful new capabilities and resources.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/meta-superintelligence-labs-ships-its-first-model</guid>
+      <pubDate>Thu, 09 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic's new AI is too powerful for the world</title>
       <link>https://www.therundown.ai/p/anthropic-new-ai-is-too-powerful-for-the-world</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/050bdd77-5447-4eec-8464-f1ce1e73b39f/1770159130973.png?t=1770159510" alt="Sam Altman’s OpenAI succession plan"&gt;&lt;br&gt;&lt;p&gt;Sam Altman unveils OpenAI's bold succession strategy, highlighting leadership continuity and vision while sparking industry-wide speculation about the company's future direction.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/sam-altmans-openai-succession-plan</guid>
       <pubDate>Wed, 04 Feb 2026 11:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>xAI joins SpaceX in mega-merger</title>
-      <link>https://www.therundown.ai/p/xai-joins-spacex-in-mega-merger</link>
-      <description>Elon Musk merges xAI and SpaceX into a $1.25T powerhouse, pioneering space-based compute and reshaping the future of AI infrastructure with an unprecedented strategic vision.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c6968ff7-a66e-4956-9ec9-cc060ac786f0/1770074164289.png?t=1770075471" alt="xAI joins SpaceX in mega-merger"&gt;&lt;br&gt;&lt;p&gt;Elon Musk merges xAI and SpaceX into a $1.25T powerhouse, pioneering space-based compute and reshaping the future of AI infrastructure with an unprecedented strategic vision.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/xai-joins-spacex-in-mega-merger</guid>
-      <pubDate>Tue, 03 Feb 2026 10:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
