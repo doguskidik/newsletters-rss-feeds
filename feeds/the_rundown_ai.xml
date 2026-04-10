@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Apr 2026 07:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 12:44:45 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Perplexity's agent pivot is on the money</title>
+      <link>https://www.therundown.ai/p/perplexity-agent-pivot-is-on-the-money</link>
+      <description>Perplexity's agent pivot targets personal finance and taxes, signaling a shift beyond search with 50% monthly revenue growth and expanding AI capabilities.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1ecf3fed-4e61-476b-b412-4e3a18674dfc/perplexityfinance.jpg?t=1775774224" alt="Perplexity's agent pivot is on the money"&gt;&lt;br&gt;&lt;p&gt;Perplexity's agent pivot targets personal finance and taxes, signaling a shift beyond search with 50% monthly revenue growth and expanding AI capabilities.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/perplexity-agent-pivot-is-on-the-money</guid>
+      <pubDate>Fri, 10 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Meta Superintelligence Labs ships its first model</title>
       <link>https://www.therundown.ai/p/meta-superintelligence-labs-ships-its-first-model</link>
@@ -320,14 +328,6 @@
       <pubDate>Fri, 20 Feb 2026 10:00:11 +0000</pubDate>
     </item>
     <item>
-      <title>Google brings AI music to the masses with Lyria 3 in Gemini</title>
-      <link>https://www.therundown.ai/p/google-brings-ai-music-to-the-masses</link>
-      <description>Google's Lyria 3 model transforms Gemini into a powerful AI music generator, making professional-grade music creation accessible to millions of users with unprecedented ease.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/57f8a9c2-572d-493f-aa17-7fe2c0c310cc/lyria3.jpg?t=1771459675" alt="Google brings AI music to the masses with Lyria 3 in Gemini"&gt;&lt;br&gt;&lt;p&gt;Google's Lyria 3 model transforms Gemini into a powerful AI music generator, making professional-grade music creation accessible to millions of users with unprecedented ease.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/google-brings-ai-music-to-the-masses</guid>
-      <pubDate>Thu, 19 Feb 2026 10:00:11 +0000</pubDate>
-    </item>
-    <item>
       <title>Anthropic's mid-tier Sonnet 4.6 model punches up at Opus</title>
       <link>https://www.therundown.ai/p/anthropics-mid-tier-model-punches-up</link>
       <description>Anthropic's mid-tier Sonnet 4.6 model challenges industry norms, delivering near-Opus performance at a fraction of the cost, revolutionizing AI accessibility for businesses.</description>
@@ -406,14 +406,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/403cd88c-1513-4ca1-b242-c78c6d31271e/adsclaude.jpg?t=1770244777" alt="Anthropic’s ad-free campaign takes aim at OpenAI"&gt;&lt;br&gt;&lt;p&gt;Anthropic launches bold Super Bowl campaign challenging OpenAI's ad strategy, positioning Claude as the principled AI alternative in a high-stakes industry showdown.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/anthropics-ad-free-campaign-takes-aim-at-openai</guid>
       <pubDate>Thu, 05 Feb 2026 10:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sam Altman’s OpenAI succession plan</title>
-      <link>https://www.therundown.ai/p/sam-altmans-openai-succession-plan</link>
-      <description>Sam Altman unveils OpenAI's bold succession strategy, highlighting leadership continuity and vision while sparking industry-wide speculation about the company's future direction.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/050bdd77-5447-4eec-8464-f1ce1e73b39f/1770159130973.png?t=1770159510" alt="Sam Altman’s OpenAI succession plan"&gt;&lt;br&gt;&lt;p&gt;Sam Altman unveils OpenAI's bold succession strategy, highlighting leadership continuity and vision while sparking industry-wide speculation about the company's future direction.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/sam-altmans-openai-succession-plan</guid>
-      <pubDate>Wed, 04 Feb 2026 11:00:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
