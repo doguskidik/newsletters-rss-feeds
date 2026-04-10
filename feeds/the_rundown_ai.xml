@@ -13,7 +13,7 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Apr 2026 12:44:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 18:39:20 +0000</lastBuildDate>
     <ttl>360</ttl>
     <item>
       <title>Perplexity's agent pivot is on the money</title>
@@ -326,6 +326,14 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/aa1575dc-29f4-44f9-9d52-6faadd32ea4e/samdario1.jpg?t=1771543693" alt="The handshake refusal heard around the AI world"&gt;&lt;br&gt;&lt;p&gt;PLUS: Google's Gemini 3.1 Pro doubles up on reasoning&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/the-handshake-refusal-heard-around-the-ai-world</guid>
       <pubDate>Fri, 20 Feb 2026 10:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google brings AI music to the masses with Lyria 3 in Gemini</title>
+      <link>https://www.therundown.ai/p/google-brings-ai-music-to-the-masses</link>
+      <description>Google's Lyria 3 model transforms Gemini into a powerful AI music generator, making professional-grade music creation accessible to millions of users with unprecedented ease.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/57f8a9c2-572d-493f-aa17-7fe2c0c310cc/lyria3.jpg?t=1771459675" alt="Google brings AI music to the masses with Lyria 3 in Gemini"&gt;&lt;br&gt;&lt;p&gt;Google's Lyria 3 model transforms Gemini into a powerful AI music generator, making professional-grade music creation accessible to millions of users with unprecedented ease.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/google-brings-ai-music-to-the-masses</guid>
+      <pubDate>Thu, 19 Feb 2026 10:00:11 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic's mid-tier Sonnet 4.6 model punches up at Opus</title>
