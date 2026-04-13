@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 07:47:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 13:00:43 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Anti-AI anger hits Sam Altman's front door</title>
+      <link>https://www.therundown.ai/p/anti-ai-anger-hits-sam-altman-front-door</link>
+      <description>Anti-AI anger escalates as protesters target Sam Altman's home amid growing fears about AI's societal impact and rapid technological changes reshaping the future.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/23ea7672-52d7-45a9-bbe9-a7651bb88c47/samabog.jpg?t=1776033290" alt="Anti-AI anger hits Sam Altman's front door"&gt;&lt;br&gt;&lt;p&gt;Anti-AI anger escalates as protesters target Sam Altman's home amid growing fears about AI's societal impact and rapid technological changes reshaping the future.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/anti-ai-anger-hits-sam-altman-front-door</guid>
+      <pubDate>Mon, 13 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Perplexity's agent pivot is on the money</title>
       <link>https://www.therundown.ai/p/perplexity-agent-pivot-is-on-the-money</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4b43908f-18f5-4f1c-ab32-619ad9ccdcd3/6e29759b50e8b3a8363b38b1f573d854df968671-3840x2160.jpg?t=1770333555" alt="OpenAI, Anthropic fight on the frontier"&gt;&lt;br&gt;&lt;p&gt;OpenAI and Anthropic battle on the AI frontier, unveiling groundbreaking advancements in agentic coding, self-improving models, and enterprise automation.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/openai-anthropic-fight-on-the-frontier</guid>
       <pubDate>Fri, 06 Feb 2026 10:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic’s ad-free campaign takes aim at OpenAI</title>
-      <link>https://www.therundown.ai/p/anthropics-ad-free-campaign-takes-aim-at-openai</link>
-      <description>Anthropic launches bold Super Bowl campaign challenging OpenAI's ad strategy, positioning Claude as the principled AI alternative in a high-stakes industry showdown.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/403cd88c-1513-4ca1-b242-c78c6d31271e/adsclaude.jpg?t=1770244777" alt="Anthropic’s ad-free campaign takes aim at OpenAI"&gt;&lt;br&gt;&lt;p&gt;Anthropic launches bold Super Bowl campaign challenging OpenAI's ad strategy, positioning Claude as the principled AI alternative in a high-stakes industry showdown.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/anthropics-ad-free-campaign-takes-aim-at-openai</guid>
-      <pubDate>Thu, 05 Feb 2026 10:00:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
