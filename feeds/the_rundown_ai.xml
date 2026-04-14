@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Apr 2026 07:17:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 13:00:31 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>What happens when AI runs a retail store</title>
+      <link>https://www.therundown.ai/p/what-happens-when-ai-runs-a-retail-store</link>
+      <description>AI takes the helm of a real retail store with $100k budget and full autonomy, revealing what happens when algorithms run operations and hire staff in San Francisco.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/abc3351d-ecd7-4ec8-99f6-f63555cbe682/ANDON.jpg?t=1776128994" alt="What happens when AI runs a retail store"&gt;&lt;br&gt;&lt;p&gt;AI takes the helm of a real retail store with $100k budget and full autonomy, revealing what happens when algorithms run operations and hire staff in San Francisco.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/what-happens-when-ai-runs-a-retail-store</guid>
+      <pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anti-AI anger hits Sam Altman's front door</title>
       <link>https://www.therundown.ai/p/anti-ai-anger-hits-sam-altman-front-door</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/93c6e496-d385-4126-9515-d689ccee1b47/svedka.jpg?t=1770580949" alt="AI ads steal the show at Super Bowl LX"&gt;&lt;br&gt;&lt;p&gt;AI takes center stage at Super Bowl LX, with tech giants and startups showcasing groundbreaking ads that highlight artificial intelligence's explosive mainstream potential and creativity.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/ai-ads-steal-the-show-at-super-bowl-lx</guid>
       <pubDate>Mon, 09 Feb 2026 10:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI, Anthropic fight on the frontier</title>
-      <link>https://www.therundown.ai/p/openai-anthropic-fight-on-the-frontier</link>
-      <description>OpenAI and Anthropic battle on the AI frontier, unveiling groundbreaking advancements in agentic coding, self-improving models, and enterprise automation.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4b43908f-18f5-4f1c-ab32-619ad9ccdcd3/6e29759b50e8b3a8363b38b1f573d854df968671-3840x2160.jpg?t=1770333555" alt="OpenAI, Anthropic fight on the frontier"&gt;&lt;br&gt;&lt;p&gt;OpenAI and Anthropic battle on the AI frontier, unveiling groundbreaking advancements in agentic coding, self-improving models, and enterprise automation.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/openai-anthropic-fight-on-the-frontier</guid>
-      <pubDate>Fri, 06 Feb 2026 10:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
