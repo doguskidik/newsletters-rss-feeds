@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 07:18:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 12:59:39 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>OpenAI's GPT-5.4-Cyber rejects Mythos playbook</title>
+      <link>https://www.therundown.ai/p/openai-gpt-5-4-cyber-rejects-mythos-playbook</link>
+      <description>OpenAI's GPT-5.4-Cyber challenges Anthropic's restricted Mythos approach, democratizing AI security by enabling broader defender access. Plus: automate Chrome with Gemini.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/85f7bda0-7be0-4f60-9be4-63292953ee7d/export__1_.jpg?t=1776205418" alt="OpenAI's GPT-5.4-Cyber rejects Mythos playbook"&gt;&lt;br&gt;&lt;p&gt;OpenAI's GPT-5.4-Cyber challenges Anthropic's restricted Mythos approach, democratizing AI security by enabling broader defender access. Plus: automate Chrome with Gemini.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/openai-gpt-5-4-cyber-rejects-mythos-playbook</guid>
+      <pubDate>Wed, 15 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What happens when AI runs a retail store</title>
       <link>https://www.therundown.ai/p/what-happens-when-ai-runs-a-retail-store</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a7027f07-190e-49c6-a0b5-da8d9d55f4a2/seedream20.jpg?t=1770678496" alt="ByteDance stuns the AI video world"&gt;&lt;br&gt;&lt;p&gt;ByteDance's Seedance 2.0 revolutionizes AI video generation, showcasing unprecedented creative capabilities that challenge global competitors and hint at a transformative Eastern innovation.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/bytedance-stuns-the-ai-video-world</guid>
       <pubDate>Tue, 10 Feb 2026 10:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI ads steal the show at Super Bowl LX</title>
-      <link>https://www.therundown.ai/p/ai-ads-steal-the-show-at-super-bowl-lx</link>
-      <description>AI takes center stage at Super Bowl LX, with tech giants and startups showcasing groundbreaking ads that highlight artificial intelligence's explosive mainstream potential and creativity.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/93c6e496-d385-4126-9515-d689ccee1b47/svedka.jpg?t=1770580949" alt="AI ads steal the show at Super Bowl LX"&gt;&lt;br&gt;&lt;p&gt;AI takes center stage at Super Bowl LX, with tech giants and startups showcasing groundbreaking ads that highlight artificial intelligence's explosive mainstream potential and creativity.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/ai-ads-steal-the-show-at-super-bowl-lx</guid>
-      <pubDate>Mon, 09 Feb 2026 10:00:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
