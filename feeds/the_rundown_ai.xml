@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 07:06:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 12:36:56 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Exclusive: Inside Canva AI 2.0 with CPO Cameron Adams</title>
+      <link>https://www.therundown.ai/p/exclusive-inside-canva-ai-2-0-with-cpo-cameron-adams</link>
+      <description>How Canva AI 2.0 changes design, productivity, and what it means to be great at your craft</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3103d7ff-1ff2-4162-9741-58b4a3a421fc/01_cover.png?t=1776222448" alt="Exclusive: Inside Canva AI 2.0 with CPO Cameron Adams"&gt;&lt;br&gt;&lt;p&gt;How Canva AI 2.0 changes design, productivity, and what it means to be great at your craft&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/exclusive-inside-canva-ai-2-0-with-cpo-cameron-adams</guid>
+      <pubDate>Sun, 19 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI's superapp hiding inside Codex </title>
       <link>https://www.therundown.ai/p/openai-superapp-hiding-inside-codex</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f6c44368-675a-425a-ab3e-1c958303dbac/deepthink.jpg?t=1770935957" alt="Google's upgrade breaks reasoning barriers"&gt;&lt;br&gt;&lt;p&gt;Google's upgraded Deep Think AI shatters reasoning benchmarks, demonstrating unprecedented problem-solving capabilities in math, coding, and scientific research domains.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/googles-upgrade-breaks-reasoning-barriers</guid>
       <pubDate>Fri, 13 Feb 2026 10:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>xAI's next phase unleashed</title>
-      <link>https://www.therundown.ai/p/xai-s-next-phase-unleashed</link>
-      <description>XAI's first all-hands meeting reveals bold restructuring plans, moon-based data centers, and insights into Elon Musk's evolving AI strategy after key team departures.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c49cba46-2ead-4e03-b6d9-c06d97e4804a/Upscaled_Image.png?t=1770884495" alt="xAI's next phase unleashed"&gt;&lt;br&gt;&lt;p&gt;XAI's first all-hands meeting reveals bold restructuring plans, moon-based data centers, and insights into Elon Musk's evolving AI strategy after key team departures.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/xai-s-next-phase-unleashed</guid>
-      <pubDate>Thu, 12 Feb 2026 11:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
