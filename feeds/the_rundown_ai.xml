@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 07:50:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 13:05:18 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Claude comes for the design stack</title>
+      <link>https://www.therundown.ai/p/claude-comes-for-the-design-stack</link>
+      <description>Claude revolutionizes the design stack with AI-powered prototypes from prompts and screenshots. Plus: free coding agent for your laptop.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/06b565b2-91a1-4a3d-84e9-38ee904433d2/claudedesign.jpg?t=1776639148" alt="Claude comes for the design stack"&gt;&lt;br&gt;&lt;p&gt;Claude revolutionizes the design stack with AI-powered prototypes from prompts and screenshots. Plus: free coding agent for your laptop.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/claude-comes-for-the-design-stack</guid>
+      <pubDate>Mon, 20 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Exclusive: Inside Canva AI 2.0 with CPO Cameron Adams</title>
       <link>https://www.therundown.ai/p/exclusive-inside-canva-ai-2-0-with-cpo-cameron-adams</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/46653a86-5aef-41f6-8b8d-d7166e263f31/Robotic_Einstein_Clean_Tongue.png?t=1771187853" alt="AI's new physics discovery"&gt;&lt;br&gt;&lt;p&gt;AI breakthrough in particle physics: GPT-5.2 disproves longstanding theory, autonomously generates proof and reignites debate on AI's scientific thinking capabilities.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/ais-new-physics-discovery</guid>
       <pubDate>Mon, 16 Feb 2026 10:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google's upgrade breaks reasoning barriers</title>
-      <link>https://www.therundown.ai/p/googles-upgrade-breaks-reasoning-barriers</link>
-      <description>Google's upgraded Deep Think AI shatters reasoning benchmarks, demonstrating unprecedented problem-solving capabilities in math, coding, and scientific research domains.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f6c44368-675a-425a-ab3e-1c958303dbac/deepthink.jpg?t=1770935957" alt="Google's upgrade breaks reasoning barriers"&gt;&lt;br&gt;&lt;p&gt;Google's upgraded Deep Think AI shatters reasoning benchmarks, demonstrating unprecedented problem-solving capabilities in math, coding, and scientific research domains.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/googles-upgrade-breaks-reasoning-barriers</guid>
-      <pubDate>Fri, 13 Feb 2026 10:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
