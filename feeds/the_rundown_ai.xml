@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 07:21:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 12:59:50 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Sergey Brin commits DeepMind to a Claude catch-up</title>
+      <link>https://www.therundown.ai/p/sergey-brin-commits-deepmind-to-a-claude-catch-up</link>
+      <description>Sergey Brin leads DeepMind strike team to close Gemini's coding gap with Claude, as Google's co-founder tackles AI's next frontier in competitive AI development.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a01a3066-3e45-4ec1-a488-80f6e3e1d111/MkPr4mf0C84OUCGU.webp?t=1776723677" alt="Sergey Brin commits DeepMind to a Claude catch-up"&gt;&lt;br&gt;&lt;p&gt;Sergey Brin leads DeepMind strike team to close Gemini's coding gap with Claude, as Google's co-founder tackles AI's next frontier in competitive AI development.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/sergey-brin-commits-deepmind-to-a-claude-catch-up</guid>
+      <pubDate>Tue, 21 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Claude comes for the design stack</title>
       <link>https://www.therundown.ai/p/claude-comes-for-the-design-stack</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/7269b698-e32e-4edd-b844-f6f2de7a94a0/Refined_Color_Tone.png?t=1771321977" alt="Anthropic-Pentagon AI feud escalates"&gt;&lt;br&gt;&lt;p&gt;Anthropic-Pentagon AI showdown escalates as tech ethics clash with military interests, revealing critical tensions in controlling cutting-edge AI deployment and usage.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-pentagon-ai-feud-escalates</guid>
       <pubDate>Tue, 17 Feb 2026 11:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI's new physics discovery</title>
-      <link>https://www.therundown.ai/p/ais-new-physics-discovery</link>
-      <description>AI breakthrough in particle physics: GPT-5.2 disproves longstanding theory, autonomously generates proof and reignites debate on AI's scientific thinking capabilities.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/46653a86-5aef-41f6-8b8d-d7166e263f31/Robotic_Einstein_Clean_Tongue.png?t=1771187853" alt="AI's new physics discovery"&gt;&lt;br&gt;&lt;p&gt;AI breakthrough in particle physics: GPT-5.2 disproves longstanding theory, autonomously generates proof and reignites debate on AI's scientific thinking capabilities.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/ais-new-physics-discovery</guid>
-      <pubDate>Mon, 16 Feb 2026 10:00:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
