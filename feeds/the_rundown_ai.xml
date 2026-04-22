@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:19:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 13:00:22 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>OpenAI reclaims the image crown</title>
+      <link>https://www.therundown.ai/p/openai-reclaims-the-image-crown</link>
+      <description>OpenAI reclaims the image generation crown with breakthrough AI technology. Plus, discover Claude Live Artifacts for building your daily command center.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d9b5cf96-70be-41bb-bdf7-1c40229f8f68/lfV2XWXg.jpeg?t=1776809845" alt="OpenAI reclaims the image crown"&gt;&lt;br&gt;&lt;p&gt;OpenAI reclaims the image generation crown with breakthrough AI technology. Plus, discover Claude Live Artifacts for building your daily command center.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/openai-reclaims-the-image-crown</guid>
+      <pubDate>Wed, 22 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sergey Brin commits DeepMind to a Claude catch-up</title>
       <link>https://www.therundown.ai/p/sergey-brin-commits-deepmind-to-a-claude-catch-up</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8d2c2c28-281c-493d-b336-d3b1bca924ef/sonnetcomputer.jpg?t=1771369813" alt="Anthropic's mid-tier Sonnet 4.6 model punches up at Opus"&gt;&lt;br&gt;&lt;p&gt;Anthropic's mid-tier Sonnet 4.6 model challenges industry norms, delivering near-Opus performance at a fraction of the cost, revolutionizing AI accessibility for businesses.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/anthropics-mid-tier-model-punches-up</guid>
       <pubDate>Wed, 18 Feb 2026 10:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic-Pentagon AI feud escalates</title>
-      <link>https://www.therundown.ai/p/anthropic-pentagon-ai-feud-escalates</link>
-      <description>Anthropic-Pentagon AI showdown escalates as tech ethics clash with military interests, revealing critical tensions in controlling cutting-edge AI deployment and usage.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/7269b698-e32e-4edd-b844-f6f2de7a94a0/Refined_Color_Tone.png?t=1771321977" alt="Anthropic-Pentagon AI feud escalates"&gt;&lt;br&gt;&lt;p&gt;Anthropic-Pentagon AI showdown escalates as tech ethics clash with military interests, revealing critical tensions in controlling cutting-edge AI deployment and usage.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-pentagon-ai-feud-escalates</guid>
-      <pubDate>Tue, 17 Feb 2026 11:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
