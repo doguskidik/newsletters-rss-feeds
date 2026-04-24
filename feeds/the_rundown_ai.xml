@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 07:48:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 12:58:33 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>OpenAI's 'Spud' dethrones Claude on the frontier </title>
+      <link>https://www.therundown.ai/p/openai-spud-dethrones-claude-on-the-frontier</link>
+      <description>OpenAI's new 'Spud' model surpasses Claude on AI leaderboards, marking a major shift in the AI frontier as Anthropic faces quality complaints.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ffb9b6c0-4d15-464f-a2aa-10a72e697bdb/76de7417-10f0-438f-834a-16925314468a.png?t=1776984545" alt="OpenAI's 'Spud' dethrones Claude on the frontier "&gt;&lt;br&gt;&lt;p&gt;OpenAI's new 'Spud' model surpasses Claude on AI leaderboards, marking a major shift in the AI frontier as Anthropic faces quality complaints.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/openai-spud-dethrones-claude-on-the-frontier</guid>
+      <pubDate>Fri, 24 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic's locked-down Mythos leaks</title>
       <link>https://www.therundown.ai/p/anthropic-locked-down-mythos-leaks</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/aa1575dc-29f4-44f9-9d52-6faadd32ea4e/samdario1.jpg?t=1771543693" alt="The handshake refusal heard around the AI world"&gt;&lt;br&gt;&lt;p&gt;PLUS: Google's Gemini 3.1 Pro doubles up on reasoning&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/the-handshake-refusal-heard-around-the-ai-world</guid>
       <pubDate>Fri, 20 Feb 2026 10:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google brings AI music to the masses with Lyria 3 in Gemini</title>
-      <link>https://www.therundown.ai/p/google-brings-ai-music-to-the-masses</link>
-      <description>Google's Lyria 3 model transforms Gemini into a powerful AI music generator, making professional-grade music creation accessible to millions of users with unprecedented ease.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/57f8a9c2-572d-493f-aa17-7fe2c0c310cc/lyria3.jpg?t=1771459675" alt="Google brings AI music to the masses with Lyria 3 in Gemini"&gt;&lt;br&gt;&lt;p&gt;Google's Lyria 3 model transforms Gemini into a powerful AI music generator, making professional-grade music creation accessible to millions of users with unprecedented ease.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/google-brings-ai-music-to-the-masses</guid>
-      <pubDate>Thu, 19 Feb 2026 10:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
