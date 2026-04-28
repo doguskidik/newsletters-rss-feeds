@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 08:05:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 13:28:09 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>OpenAI and Microsoft's new open relationship</title>
+      <link>https://www.therundown.ai/p/openai-and-microsoft-new-open-relationship</link>
+      <description>OpenAI and Microsoft's evolving partnership opens doors for cloud alternatives like Amazon, while Microsoft maintains a lucrative but less exclusive role in the AI ecosystem.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2960de15-6de4-4c83-8234-d2c8ef6b44d5/oaidistractedmeme.jpg?t=1777335592" alt="OpenAI and Microsoft's new open relationship"&gt;&lt;br&gt;&lt;p&gt;OpenAI and Microsoft's evolving partnership opens doors for cloud alternatives like Amazon, while Microsoft maintains a lucrative but less exclusive role in the AI ecosystem.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/openai-and-microsoft-new-open-relationship</guid>
+      <pubDate>Tue, 28 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>DeepSeek resurfaces with cheap, capable V4</title>
       <link>https://www.therundown.ai/p/deepseek-resurfaces-with-cheap-capable-v4</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f67b2a70-4621-499b-a5b2-74e5ccb1e1b3/1771801268107.png?t=1771801875" alt="What OpenAI and Jony Ive are building"&gt;&lt;br&gt;&lt;p&gt;PLUS: The Rundown Roundtable: Our AI use cases&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/what-openai-and-jony-ive-are-building</guid>
       <pubDate>Mon, 23 Feb 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The handshake refusal heard around the AI world</title>
-      <link>https://www.therundown.ai/p/the-handshake-refusal-heard-around-the-ai-world</link>
-      <description>PLUS: Google's Gemini 3.1 Pro doubles up on reasoning</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/aa1575dc-29f4-44f9-9d52-6faadd32ea4e/samdario1.jpg?t=1771543693" alt="The handshake refusal heard around the AI world"&gt;&lt;br&gt;&lt;p&gt;PLUS: Google's Gemini 3.1 Pro doubles up on reasoning&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/the-handshake-refusal-heard-around-the-ai-world</guid>
-      <pubDate>Fri, 20 Feb 2026 10:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
