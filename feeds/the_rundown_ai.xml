@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 07:59:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 13:21:36 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>The biggest AI trial ever kicks off</title>
+      <link>https://www.therundown.ai/p/the-biggest-ai-trial-ever-kicks-off</link>
+      <description>AI's biggest rivalry heads to federal court as Musk's $130B trial against OpenAI kicks off with explosive testimony and private revelations.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/e48bca65-387b-4972-8451-8005bf31f60b/fa9327ac-7a60-49f8-b8c5-e6e1fd07e75c.png?t=1777415578" alt="The biggest AI trial ever kicks off"&gt;&lt;br&gt;&lt;p&gt;AI's biggest rivalry heads to federal court as Musk's $130B trial against OpenAI kicks off with explosive testimony and private revelations.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/the-biggest-ai-trial-ever-kicks-off</guid>
+      <pubDate>Wed, 29 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI and Microsoft's new open relationship</title>
       <link>https://www.therundown.ai/p/openai-and-microsoft-new-open-relationship</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8e4ae315-a92a-4606-84b9-f5f071220ab5/1771888611957.png?t=1771898125" alt="Anthropic calls out China's AI copycats"&gt;&lt;br&gt;&lt;p&gt;Anthropic exposes Chinese AI labs cloning Claude through millions of fake accounts, raising urgent industry concerns about AI model theft and competitive espionage.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-calls-out-china-ai-copycats</guid>
       <pubDate>Tue, 24 Feb 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What OpenAI and Jony Ive are building</title>
-      <link>https://www.therundown.ai/p/what-openai-and-jony-ive-are-building</link>
-      <description>PLUS: The Rundown Roundtable: Our AI use cases</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f67b2a70-4621-499b-a5b2-74e5ccb1e1b3/1771801268107.png?t=1771801875" alt="What OpenAI and Jony Ive are building"&gt;&lt;br&gt;&lt;p&gt;PLUS: The Rundown Roundtable: Our AI use cases&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/what-openai-and-jony-ive-are-building</guid>
-      <pubDate>Mon, 23 Feb 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
