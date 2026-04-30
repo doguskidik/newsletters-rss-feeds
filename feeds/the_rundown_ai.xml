@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 08:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 13:19:34 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Zuckerberg's $500M AI biology swing</title>
+      <link>https://www.therundown.ai/p/zuckerberg-500m-ai-biology-swing</link>
+      <description>Mark Zuckerberg's biohub invests $500M in AI-powered virtual biology to revolutionize disease research and transform cellular-level understanding.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ea705b5b-98d0-4985-8f44-d073747b5103/f384bdf0-6ced-45a1-ac64-72c2ec4c5af4.png?t=1777500298" alt="Zuckerberg's $500M AI biology swing"&gt;&lt;br&gt;&lt;p&gt;Mark Zuckerberg's biohub invests $500M in AI-powered virtual biology to revolutionize disease research and transform cellular-level understanding.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/zuckerberg-500m-ai-biology-swing</guid>
+      <pubDate>Thu, 30 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The biggest AI trial ever kicks off</title>
       <link>https://www.therundown.ai/p/the-biggest-ai-trial-ever-kicks-off</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/30a863cc-1909-46f8-85fe-44ce3e1c0159/HB23rT0XIAECKyz.jpeg?t=1771981750" alt="Pentagon hits Claude with scary AI ultimatum"&gt;&lt;br&gt;&lt;p&gt;Pentagon pressures Anthropic to remove AI safeguards on Claude amid autonomous weapons concerns. Plus: AI video translation breakthroughs.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/pentagon-hits-claude-with-scary-ai-ultimatum</guid>
       <pubDate>Wed, 25 Feb 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic calls out China's AI copycats</title>
-      <link>https://www.therundown.ai/p/anthropic-calls-out-china-ai-copycats</link>
-      <description>Anthropic exposes Chinese AI labs cloning Claude through millions of fake accounts, raising urgent industry concerns about AI model theft and competitive espionage.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8e4ae315-a92a-4606-84b9-f5f071220ab5/1771888611957.png?t=1771898125" alt="Anthropic calls out China's AI copycats"&gt;&lt;br&gt;&lt;p&gt;Anthropic exposes Chinese AI labs cloning Claude through millions of fake accounts, raising urgent industry concerns about AI model theft and competitive espionage.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-calls-out-china-ai-copycats</guid>
-      <pubDate>Tue, 24 Feb 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
