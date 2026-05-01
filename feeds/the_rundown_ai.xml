@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 08:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 12:54:41 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>The White House rethinks its Anthropic fight</title>
+      <link>https://www.therundown.ai/p/the-white-house-rethinks-its-anthropic-fight</link>
+      <description>The White House reconsiders its stance on Anthropic as powerful new AI capabilities emerge, raising complex national security questions in the evolving AI regulation landscape.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d8ef985d-adbd-44e9-a049-e1f644580ee8/eefb06be-1e74-48d3-8f93-2b8b6a94c6d1.png?t=1777583398" alt="The White House rethinks its Anthropic fight"&gt;&lt;br&gt;&lt;p&gt;The White House reconsiders its stance on Anthropic as powerful new AI capabilities emerge, raising complex national security questions in the evolving AI regulation landscape.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/the-white-house-rethinks-its-anthropic-fight</guid>
+      <pubDate>Fri, 01 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Zuckerberg's $500M AI biology swing</title>
       <link>https://www.therundown.ai/p/zuckerberg-500m-ai-biology-swing</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3cf707b9-dc54-4957-8749-d9485343d3e3/Three_Panels_16_9_1.png?t=1772062095" alt="Perplexity's 19-model AI ‘Computer’"&gt;&lt;br&gt;&lt;p&gt;Perplexity launches 19-model AI 'Computer' orchestrating frontier models for agentic workflows, advancing AI agents beyond the mainstream with innovative task automation.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/perplexitys-19-model-ai-computer</guid>
       <pubDate>Thu, 26 Feb 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pentagon hits Claude with scary AI ultimatum</title>
-      <link>https://www.therundown.ai/p/pentagon-hits-claude-with-scary-ai-ultimatum</link>
-      <description>Pentagon pressures Anthropic to remove AI safeguards on Claude amid autonomous weapons concerns. Plus: AI video translation breakthroughs.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/30a863cc-1909-46f8-85fe-44ce3e1c0159/HB23rT0XIAECKyz.jpeg?t=1771981750" alt="Pentagon hits Claude with scary AI ultimatum"&gt;&lt;br&gt;&lt;p&gt;Pentagon pressures Anthropic to remove AI safeguards on Claude amid autonomous weapons concerns. Plus: AI video translation breakthroughs.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/pentagon-hits-claude-with-scary-ai-ultimatum</guid>
-      <pubDate>Wed, 25 Feb 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
