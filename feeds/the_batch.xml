@@ -13,8 +13,16 @@
       <link>https://www.deeplearning.ai/the-batch/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 12:53:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 18:55:59 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>GPT-5.5 Outperforms (and Hallucinates), Kimi K2.6 Leads Open LLMs, AI Strains Climate Pledges, Strategic Thinking in LLMs vs. Humans</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-351/</link>
+      <description>The Batch AI News and Insights: The ways we prompt AI are very different in 2026 than 2022 when ChatGPT came out.</description>
+      <content:encoded>&lt;img src="https://charonhub.deeplearning.ai/content/images/2026/04/How-we-prompt-AI-is-very-different-in-2026-than-2022-when-ChatGPT-came-out..png" alt="GPT-5.5 Outperforms (and Hallucinates), Kimi K2.6 Leads Open LLMs, AI Strains Climate Pledges, Strategic Thinking in LLMs vs. Humans"&gt;&lt;br&gt;&lt;p&gt;The Batch AI News and Insights: The ways we prompt AI are very different in 2026 than 2022 when ChatGPT came out.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-351/</guid>
+      <pubDate>Fri, 01 May 2026 09:46:57 -0700</pubDate>
+    </item>
     <item>
       <title>GLM 5.1 Thinks Strategically, Data-Center Revolt Intensifies, When Helpful LLMs Turn Unhelpful, Humanoid Robots Get to Work</title>
       <link>https://www.deeplearning.ai/the-batch/issue-350/</link>
@@ -136,12 +144,12 @@
       <pubDate>Fri, 16 Jan 2026 07:32:29 -0800</pubDate>
     </item>
     <item>
-      <title>LLMs Go To Confession, Automated Scientific Research, What Copilot Users Want, Reasoning For Less</title>
-      <link>https://www.deeplearning.ai/the-batch/issue-335/</link>
-      <description>The Batch AI News and Insights: We just launched a course that shows people who have never coded before, in less than 30 minutes, how to describe an idea for an app and build it using AI.</description>
-      <content:encoded>&lt;img src="https://charonhub.deeplearning.ai/content/images/2026/01/Build-with-Andrew-.png" alt="LLMs Go To Confession, Automated Scientific Research, What Copilot Users Want, Reasoning For Less"&gt;&lt;br&gt;&lt;p&gt;The Batch AI News and Insights: We just launched a course that shows people who have never coded before, in less than 30 minutes, how to describe an idea for an app and build it using AI.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-335/</guid>
-      <pubDate>Fri, 09 Jan 2026 06:24:42 -0800</pubDate>
+      <title>Governments vs. Grok, Meta Buys Agent Tech, Healthcare Chatbots, Limits of AI-Powered Retrieval</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-336/</link>
+      <description>The Batch AI News and Insights: Many people are fighting the growth of data centers because they could increase CO2 emissions, electricity prices, and water use.</description>
+      <content:encoded>&lt;img src="https://charonhub.deeplearning.ai/content/images/2026/01/2026.01.16-LETTER-2.jpg" alt="Governments vs. Grok, Meta Buys Agent Tech, Healthcare Chatbots, Limits of AI-Powered Retrieval"&gt;&lt;br&gt;&lt;p&gt;The Batch AI News and Insights: Many people are fighting the growth of data centers because they could increase CO2 emissions, electricity prices, and water use.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.deeplearning.ai/the-batch/issue-336/</guid>
+      <pubDate>Fri, 16 Jan 2026 07:32:29 -0800</pubDate>
     </item>
     <item>
       <title>LLMs Go To Confession, Automated Scientific Research, What Copilot Users Want, Reasoning For Less</title>
