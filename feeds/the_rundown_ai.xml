@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 03 May 2026 07:47:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 12:44:23 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Exclusive: UiPath CMO Michael Atalla on AI at work</title>
+      <link>https://www.therundown.ai/p/exclusive-uipath-cmo-michael-atalla-on-ai-at-work</link>
+      <description>Why most AI projects fail, what the cloud era teaches us, and what the whole AI shift means for your job</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/90a0cd73-8bae-4058-ae39-7ca82ae18959/2026_UiPath.png?t=1777615656" alt="Exclusive: UiPath CMO Michael Atalla on AI at work"&gt;&lt;br&gt;&lt;p&gt;Why most AI projects fail, what the cloud era teaches us, and what the whole AI shift means for your job&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/exclusive-uipath-cmo-michael-atalla-on-ai-at-work</guid>
+      <pubDate>Sun, 03 May 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The White House rethinks its Anthropic fight</title>
       <link>https://www.therundown.ai/p/the-white-house-rethinks-its-anthropic-fight</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/51fdb526-c316-4f34-97b1-73deffa8f8fd/farmNB2.jpg?t=1772145759" alt="The new top banana in AI image generation"&gt;&lt;br&gt;&lt;p&gt;Google's Nano Banana 2 reclaims AI image generation crown with superior quality at half the cost. Plus: create AI assistants with phone numbers.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/the-new-top-banana-in-ai-image-generation</guid>
       <pubDate>Fri, 27 Feb 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perplexity's 19-model AI ‘Computer’</title>
-      <link>https://www.therundown.ai/p/perplexitys-19-model-ai-computer</link>
-      <description>Perplexity launches 19-model AI 'Computer' orchestrating frontier models for agentic workflows, advancing AI agents beyond the mainstream with innovative task automation.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3cf707b9-dc54-4957-8749-d9485343d3e3/Three_Panels_16_9_1.png?t=1772062095" alt="Perplexity's 19-model AI ‘Computer’"&gt;&lt;br&gt;&lt;p&gt;Perplexity launches 19-model AI 'Computer' orchestrating frontier models for agentic workflows, advancing AI agents beyond the mainstream with innovative task automation.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/perplexitys-19-model-ai-computer</guid>
-      <pubDate>Thu, 26 Feb 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
