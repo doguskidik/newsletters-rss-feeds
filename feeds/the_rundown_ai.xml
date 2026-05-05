@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 07:53:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 13:10:33 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>AI data centers head for the ocean</title>
+      <link>https://www.therundown.ai/p/ai-data-centers-head-for-the-ocean</link>
+      <description>AI data centers head for the ocean with Panthalassa's $140M floating structures, plus how to replace Siri with a free local AI model. Discover the future of sustainable computing.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/5f2a4352-8588-42ec-88d6-9f1e6717e24f/pantha.jpg?t=1777934578" alt="AI data centers head for the ocean"&gt;&lt;br&gt;&lt;p&gt;AI data centers head for the ocean with Panthalassa's $140M floating structures, plus how to replace Siri with a free local AI model. Discover the future of sustainable computing.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/ai-data-centers-head-for-the-ocean</guid>
+      <pubDate>Tue, 05 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AI shows its skills in the emergency room</title>
       <link>https://www.therundown.ai/p/ai-shows-its-skills-in-the-emergency-room</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ae15b1c2-b5e4-4686-81fa-efa484754ee9/paradise.jpg?t=1772495473" alt="Supreme Court ducks AI copyright question"&gt;&lt;br&gt;&lt;p&gt;Supreme Court avoids landmark AI copyright ruling as artificial intelligence challenges traditional authorship laws and content creation standards.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/supreme-court-ducks-ai-copyright-question</guid>
       <pubDate>Tue, 03 Mar 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI steps into Anthropic's Pentagon void</title>
-      <link>https://www.therundown.ai/p/openai-steps-into-anthropic-pentagon-void</link>
-      <description>OpenAI secures Pentagon contract after Anthropic's removal, reshaping AI's role in government and military operations amid political tensions.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/569f0364-9471-4df5-9618-96e76f10f8f2/Four_Vertical_Split_Screen.png?t=1772397944" alt="OpenAI steps into Anthropic's Pentagon void"&gt;&lt;br&gt;&lt;p&gt;OpenAI secures Pentagon contract after Anthropic's removal, reshaping AI's role in government and military operations amid political tensions.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/openai-steps-into-anthropic-pentagon-void</guid>
-      <pubDate>Mon, 02 Mar 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
