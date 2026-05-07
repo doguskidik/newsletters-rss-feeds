@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 08:14:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 13:27:24 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Anthropic, SpaceX(AI) become unlikely compute partners</title>
+      <link>https://www.therundown.ai/p/anthropic-spacex-ai-become-unlikely-compute-partners</link>
+      <description>Anthropic and SpaceX's AI unit forge surprising compute partnership, with Musk renting Colossus cluster to rival Claude and reshaping the AI compute landscape.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/dd9e5cfc-5490-43ee-8910-3212ab3762bb/image__1_.png?t=1778123433" alt="Anthropic, SpaceX(AI) become unlikely compute partners"&gt;&lt;br&gt;&lt;p&gt;Anthropic and SpaceX's AI unit forge surprising compute partnership, with Musk renting Colossus cluster to rival Claude and reshaping the AI compute landscape.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-spacex-ai-become-unlikely-compute-partners</guid>
+      <pubDate>Thu, 07 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI's AI phone just jumped the line</title>
       <link>https://www.therundown.ai/p/openai-ai-phone-just-jumped-the-line</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2972a479-c1ae-4d52-9e5f-77dc85fd82c7/Dario_Amodei_Fire_Writing_Illustrated.png?t=1772671018" alt="Amodei torches OpenAI in leaked memo"&gt;&lt;br&gt;&lt;p&gt;Dario Amodei torches OpenAI in leaked memo, calling the Pentagon deal "straight up lies" and safety theater in scathing internal message to Anthropic staff.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/amodei-torches-openai-in-leaked-memo</guid>
       <pubDate>Thu, 05 Mar 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Altman faces the fallout from OpenAI's Pentagon deal</title>
-      <link>https://www.therundown.ai/p/altman-faces-the-fallout-from-openai-s-pentagon-deal</link>
-      <description>PLUS: Create killer thumbnails with this Midjourney technique</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/826851c9-4272-479d-8314-820b69fad045/samadod.jpg?t=1772588665" alt="Altman faces the fallout from OpenAI's Pentagon deal"&gt;&lt;br&gt;&lt;p&gt;PLUS: Create killer thumbnails with this Midjourney technique&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/altman-faces-the-fallout-from-openai-s-pentagon-deal</guid>
-      <pubDate>Wed, 04 Mar 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
