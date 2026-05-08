@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 07:15:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 13:07:27 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>OpenAI closes reasoning gap in voice agents</title>
+      <link>https://www.therundown.ai/p/openai-closes-reasoning-gap-in-voice-agents</link>
+      <description>OpenAI's new voice agents feature advanced reasoning and real-time speech capabilities, enabling AI to handle complex tasks at natural conversation speed with improved tool use.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/facb2845-d52a-4ddc-96d4-e096379149d4/gptvoice.jpg?t=1778193441" alt="OpenAI closes reasoning gap in voice agents"&gt;&lt;br&gt;&lt;p&gt;OpenAI's new voice agents feature advanced reasoning and real-time speech capabilities, enabling AI to handle complex tasks at natural conversation speed with improved tool use.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/openai-closes-reasoning-gap-in-voice-agents</guid>
+      <pubDate>Fri, 08 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic, SpaceX(AI) become unlikely compute partners</title>
       <link>https://www.therundown.ai/p/anthropic-spacex-ai-become-unlikely-compute-partners</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/84c5451b-1fa8-4391-95b6-ead4f84a5974/gpt54.jpg?t=1772752859" alt="OpenAI's 'best model ever' goes live"&gt;&lt;br&gt;&lt;p&gt;OpenAI's new GPT-5.4 model outperforms humans on 83% of job-specific tasks, delivering breakthrough capabilities in math, coding, and reasoning. The company's best model yet.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/openais-best-model-ever-goes-live</guid>
       <pubDate>Fri, 06 Mar 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amodei torches OpenAI in leaked memo</title>
-      <link>https://www.therundown.ai/p/amodei-torches-openai-in-leaked-memo</link>
-      <description>Dario Amodei torches OpenAI in leaked memo, calling the Pentagon deal "straight up lies" and safety theater in scathing internal message to Anthropic staff.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2972a479-c1ae-4d52-9e5f-77dc85fd82c7/Dario_Amodei_Fire_Writing_Illustrated.png?t=1772671018" alt="Amodei torches OpenAI in leaked memo"&gt;&lt;br&gt;&lt;p&gt;Dario Amodei torches OpenAI in leaked memo, calling the Pentagon deal "straight up lies" and safety theater in scathing internal message to Anthropic staff.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/amodei-torches-openai-in-leaked-memo</guid>
-      <pubDate>Thu, 05 Mar 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
