@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 08:57:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 14:25:37 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Google DeepMind’s powerful AI co-mathematician</title>
+      <link>https://www.therundown.ai/p/google-deepmind-powerful-ai-co-mathematician</link>
+      <description>Google DeepMind's AI co-mathematician breaks records with agentic approach, solving decades-old math problems and revolutionizing AI reasoning capabilities.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/849b1e3e-b0b5-492b-9a9c-9cee3e79ab0b/comath.jpg?t=1778437393" alt="Google DeepMind’s powerful AI co-mathematician"&gt;&lt;br&gt;&lt;p&gt;Google DeepMind's AI co-mathematician breaks records with agentic approach, solving decades-old math problems and revolutionizing AI reasoning capabilities.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/google-deepmind-powerful-ai-co-mathematician</guid>
+      <pubDate>Mon, 11 May 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI closes reasoning gap in voice agents</title>
       <link>https://www.therundown.ai/p/openai-closes-reasoning-gap-in-voice-agents</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c005db92-d909-4550-85c1-cb41038ba088/2026_Rovo_cover.png?t=1772043819" alt="AI will make engineering more human, not less"&gt;&lt;br&gt;&lt;p&gt;What changes, what breaks, and what still belongs to humans the modern age of development&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/ai-will-make-engineering-more-human-not-less</guid>
       <pubDate>Sun, 08 Mar 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI's 'best model ever' goes live</title>
-      <link>https://www.therundown.ai/p/openais-best-model-ever-goes-live</link>
-      <description>OpenAI's new GPT-5.4 model outperforms humans on 83% of job-specific tasks, delivering breakthrough capabilities in math, coding, and reasoning. The company's best model yet.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/84c5451b-1fa8-4391-95b6-ead4f84a5974/gpt54.jpg?t=1772752859" alt="OpenAI's 'best model ever' goes live"&gt;&lt;br&gt;&lt;p&gt;OpenAI's new GPT-5.4 model outperforms humans on 83% of job-specific tasks, delivering breakthrough capabilities in math, coding, and reasoning. The company's best model yet.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/openais-best-model-ever-goes-live</guid>
-      <pubDate>Fri, 06 Mar 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
