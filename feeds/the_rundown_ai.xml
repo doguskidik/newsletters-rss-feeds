@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 08:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 13:52:52 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Mira Murati's TML upends how humans work with AI</title>
+      <link>https://www.therundown.ai/p/mira-murati-tml-upends-how-humans-work-with-ai</link>
+      <description>Mira Murati's TML launches interaction models, revolutionizing human-AI collaboration with real-time voice, video, and text capabilities for seamless workflows.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b346dc03-f030-4ceb-b3a9-ab665f86c9f3/Screenshot_2026-05-11_at_5.30.41_PM.png?t=1778540987" alt="Mira Murati's TML upends how humans work with AI"&gt;&lt;br&gt;&lt;p&gt;Mira Murati's TML launches interaction models, revolutionizing human-AI collaboration with real-time voice, video, and text capabilities for seamless workflows.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/mira-murati-tml-upends-how-humans-work-with-ai</guid>
+      <pubDate>Tue, 12 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google DeepMind’s powerful AI co-mathematician</title>
       <link>https://www.therundown.ai/p/google-deepmind-powerful-ai-co-mathematician</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3d3763a5-c7d6-4638-9089-53184a84d3e0/1772993767510.png?t=1773011190" alt="OpenAI's robotics lead exits over Pentagon deal"&gt;&lt;br&gt;&lt;p&gt;OpenAI's robotics lead resigns over Pentagon deal amid surveillance concerns, signaling internal backlash over controversial military AI partnership.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/openai-robotics-lead-exits-over-pentagon-deal</guid>
       <pubDate>Mon, 09 Mar 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI will make engineering more human, not less</title>
-      <link>https://www.therundown.ai/p/ai-will-make-engineering-more-human-not-less</link>
-      <description>What changes, what breaks, and what still belongs to humans the modern age of development</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c005db92-d909-4550-85c1-cb41038ba088/2026_Rovo_cover.png?t=1772043819" alt="AI will make engineering more human, not less"&gt;&lt;br&gt;&lt;p&gt;What changes, what breaks, and what still belongs to humans the modern age of development&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/ai-will-make-engineering-more-human-not-less</guid>
-      <pubDate>Sun, 08 Mar 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
