@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 08:27:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 13:29:18 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>The enterprise shift OpenAI saw coming</title>
+      <link>https://www.therundown.ai/p/the-enterprise-shift-openai-saw-coming</link>
+      <description>Ramp’s latest AI Index just showed Anthropic leading adoption among its paid business users for the first time, a 4x adoption surge since 2025 that may tell the story of why OpenAI has been drastically shifting its priorities throughout 2026.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c11cbd62-249c-48c0-a256-60e7d4865386/rampaiindex.jpg?t=1778717142" alt="The enterprise shift OpenAI saw coming"&gt;&lt;br&gt;&lt;p&gt;Ramp’s latest AI Index just showed Anthropic leading adoption among its paid business users for the first time, a 4x adoption surge since 2025 that may tell the story of why OpenAI has been drastically shifting its priorities throughout 2026.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/the-enterprise-shift-openai-saw-coming</guid>
+      <pubDate>Thu, 14 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Android enters its Gemini Intelligence era</title>
       <link>https://www.therundown.ai/p/android-enters-its-gemini-intelligence-era</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/67143989-068a-4473-8d71-07175c1faa7a/ami.jpg?t=1773176364" alt="Yann LeCun's $1B bet against LLMs"&gt;&lt;br&gt;&lt;p&gt;Yann LeCun launches $1B bet against LLMs with advanced machine intelligence, claiming AI needs real-world understanding beyond language models to succeed.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/yann-lecun-1b-bet-against-llms</guid>
       <pubDate>Wed, 11 Mar 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic takes U.S. government to court</title>
-      <link>https://www.therundown.ai/p/anthropic-takes-us-government-to-court</link>
-      <description>PLUS: Auto-generate video from written content with Manus</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/56daeeb5-61e7-4099-af57-2eda7c26db80/anthropicsue.jpg?t=1773098390" alt="Anthropic takes U.S. government to court"&gt;&lt;br&gt;&lt;p&gt;PLUS: Auto-generate video from written content with Manus&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-takes-us-government-to-court</guid>
-      <pubDate>Tue, 10 Mar 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
