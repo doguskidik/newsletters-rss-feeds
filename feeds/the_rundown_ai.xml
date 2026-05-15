@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 08:38:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 13:28:19 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>OpenAI takes Codex mobile</title>
+      <link>https://www.therundown.ai/p/openai-takes-codex-mobile</link>
+      <description>OpenAI brings Codex to mobile with ChatGPT app, enabling AI coding agents to run for hours while you manage tasks remotely. Plus, automate marketing assets with ChatGPT Images 2.0.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c5e05dc1-4267-41ba-875c-6e9444cf98a7/codexmobile.jpg?t=1778798787" alt="OpenAI takes Codex mobile"&gt;&lt;br&gt;&lt;p&gt;OpenAI brings Codex to mobile with ChatGPT app, enabling AI coding agents to run for hours while you manage tasks remotely. Plus, automate marketing assets with ChatGPT Images 2.0.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/openai-takes-codex-mobile</guid>
+      <pubDate>Fri, 15 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The enterprise shift OpenAI saw coming</title>
       <link>https://www.therundown.ai/p/the-enterprise-shift-openai-saw-coming</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/156d2c62-ae88-4835-8f43-fa192d74d3dd/perplexitypersonalcomputer.jpg?t=1773267069" alt="Perplexity's new answer to OpenClaw"&gt;&lt;br&gt;&lt;p&gt;Perplexity launches AI agent system to rival OpenAI's vision, while Google Workspace Studio enables agentic workflows. Explore the latest AI breakthroughs reshaping automation and productivity tools.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/perplexity-new-answer-to-openclaw</guid>
       <pubDate>Thu, 12 Mar 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yann LeCun's $1B bet against LLMs</title>
-      <link>https://www.therundown.ai/p/yann-lecun-1b-bet-against-llms</link>
-      <description>Yann LeCun launches $1B bet against LLMs with advanced machine intelligence, claiming AI needs real-world understanding beyond language models to succeed.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/67143989-068a-4473-8d71-07175c1faa7a/ami.jpg?t=1773176364" alt="Yann LeCun's $1B bet against LLMs"&gt;&lt;br&gt;&lt;p&gt;Yann LeCun launches $1B bet against LLMs with advanced machine intelligence, claiming AI needs real-world understanding beyond language models to succeed.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/yann-lecun-1b-bet-against-llms</guid>
-      <pubDate>Wed, 11 Mar 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
