@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 02:11:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 09:38:27 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>AI anger comes for Claude (Monet)</title>
+      <link>https://www.therundown.ai/p/ai-anger-comes-for-claude-monet</link>
+      <description>AI anger comes for Claude (Monet): Artist reveals how people dismiss real artwork when they think AI made it, exposing reflexive hostility toward machine-generated art online.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/222bf8e3-dbd4-4917-ac97-ecef9d15bd01/shloms.jpg?t=1779051525" alt="AI anger comes for Claude (Monet)"&gt;&lt;br&gt;&lt;p&gt;AI anger comes for Claude (Monet): Artist reveals how people dismiss real artwork when they think AI made it, exposing reflexive hostility toward machine-generated art online.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/ai-anger-comes-for-claude-monet</guid>
+      <pubDate>Mon, 18 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI takes Codex mobile</title>
       <link>https://www.therundown.ai/p/openai-takes-codex-mobile</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/0f73aaa3-f4bc-455a-816c-65d4fc2c3ff3/Untitled_design__3_.png?t=1773391393" alt="Google brings Gemini to the road"&gt;&lt;br&gt;&lt;p&gt;Google brings Gemini to Maps for hands-free navigation. Plus: automate Gmail with Google Workspace Studio. Discover how AI transforms your daily commute.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/google-brings-gemini-to-the-road</guid>
       <pubDate>Fri, 13 Mar 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Perplexity's new answer to OpenClaw</title>
-      <link>https://www.therundown.ai/p/perplexity-new-answer-to-openclaw</link>
-      <description>Perplexity launches AI agent system to rival OpenAI's vision, while Google Workspace Studio enables agentic workflows. Explore the latest AI breakthroughs reshaping automation and productivity tools.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/156d2c62-ae88-4835-8f43-fa192d74d3dd/perplexitypersonalcomputer.jpg?t=1773267069" alt="Perplexity's new answer to OpenClaw"&gt;&lt;br&gt;&lt;p&gt;Perplexity launches AI agent system to rival OpenAI's vision, while Google Workspace Studio enables agentic workflows. Explore the latest AI breakthroughs reshaping automation and productivity tools.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/perplexity-new-answer-to-openclaw</guid>
-      <pubDate>Thu, 12 Mar 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
