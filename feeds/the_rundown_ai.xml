@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 08:55:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 14:39:30 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>OpenAI cracks an 80-year math belief</title>
+      <link>https://www.therundown.ai/p/openai-cracks-an-80-year-math-belief</link>
+      <description>OpenAI's reasoning model disproves 80-year math theory autonomously, marking a breakthrough in AI-driven scientific discovery and original research capabilities.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/245399a7-782e-4ffd-b673-910f20cd701f/erdos.png?t=1779315509" alt="OpenAI cracks an 80-year math belief"&gt;&lt;br&gt;&lt;p&gt;OpenAI's reasoning model disproves 80-year math theory autonomously, marking a breakthrough in AI-driven scientific discovery and original research capabilities.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/openai-cracks-an-80-year-math-belief</guid>
+      <pubDate>Thu, 21 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Gemini's busy agentic day at Google I/O</title>
       <link>https://www.therundown.ai/p/gemini-busy-agentic-day-at-google-i-o</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/28661702-8c8e-4a1f-ab83-a288701f873d/export__1_.png?t=1773790655" alt="Simo sounds alarm on OpenAI's 'side quests' "&gt;&lt;br&gt;&lt;p&gt;PLUS: Generate a cohesive e-commerce product shoot&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/simo-sounds-alarm-on-openai-side-quests</guid>
       <pubDate>Wed, 18 Mar 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia's big AI day at GTC</title>
-      <link>https://www.therundown.ai/p/nvidia-big-ai-day-at-gtc</link>
-      <description>Nvidia's GTC showcases AI breakthroughs with Nemoclaw security stack and next-gen chips. Plus: learn to use Grok for free automated research.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/fe8ec51a-323f-4488-ac9e-d2de34233dbf/jensenclaw.jpg?t=1773700609" alt="Nvidia's big AI day at GTC"&gt;&lt;br&gt;&lt;p&gt;Nvidia's GTC showcases AI breakthroughs with Nemoclaw security stack and next-gen chips. Plus: learn to use Grok for free automated research.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/nvidia-big-ai-day-at-gtc</guid>
-      <pubDate>Tue, 17 Mar 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
