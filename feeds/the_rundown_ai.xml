@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 02:06:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:34:57 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>The Pope just weighed in on AI</title>
+      <link>https://www.therundown.ai/p/the-pope-just-weighed-in-on-ai</link>
+      <description>Pope Francis weighs in on AI in landmark encyclical, drawing parallels to the Industrial Revolution and shaping religious perspective on artificial intelligence.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/e67b4df1-67fe-4b46-9e0b-74236e5af7b2/759ED180-F8C7-40F1-AA0E-3434D12FB00D__1_.jpg?t=1779782865" alt="The Pope just weighed in on AI"&gt;&lt;br&gt;&lt;p&gt;Pope Francis weighs in on AI in landmark encyclical, drawing parallels to the Industrial Revolution and shaping religious perspective on artificial intelligence.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/the-pope-just-weighed-in-on-ai</guid>
+      <pubDate>Tue, 26 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google tops OpenAI's math breakthrough — 9 to 1</title>
       <link>https://www.therundown.ai/p/google-tops-openai-math-breakthrough-9-to-1</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4b9f8d0b-02ac-4ae1-920c-7910959b0e5f/terafab.jpg?t=1774213911" alt="Elon Musk's 'Terafab' AI chip factory"&gt;&lt;br&gt;&lt;p&gt;Elon Musk's Terafab AI chip factory aims to revolutionize compute production, uniting Tesla, SpaceX, and xAI in ambitious chip fabrication innovation.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/elon-musk-terafab-ai-chip-factory</guid>
       <pubDate>Mon, 23 Mar 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How 81K people really feel about AI</title>
-      <link>https://www.therundown.ai/p/how-81k-people-really-feel-about-ai</link>
-      <description>Discover what 81K people really think about AI: Anthropic's groundbreaking survey reveals nuanced public sentiment beyond simple hope or fear, spanning 70 languages worldwide.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/656748cf-457a-49da-8d63-08db8dc450ad/anthropicsurvey.jpg?t=1773959785" alt="How 81K people really feel about AI"&gt;&lt;br&gt;&lt;p&gt;Discover what 81K people really think about AI: Anthropic's groundbreaking survey reveals nuanced public sentiment beyond simple hope or fear, spanning 70 languages worldwide.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/how-81k-people-really-feel-about-ai</guid>
-      <pubDate>Fri, 20 Mar 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
