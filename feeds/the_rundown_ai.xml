@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 09:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 14:53:40 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Exclusive: Demis Hassabis on AGI, curing diseases with AI</title>
+      <link>https://www.therundown.ai/p/exclusive-demis-hassabis-on-agi-curing-diseases-with-ai</link>
+      <description>Demis Hassabis on achieving AGI by 2030, curing diseases with AI, and humanity's irreplaceable role in the future of artificial intelligence.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/01d4f9a8-67b7-49c6-83c0-dd7f99212d5d/7350de35-9497-4c1c-8702-61acdd5d3a60.png?t=1779861037" alt="Exclusive: Demis Hassabis on AGI, curing diseases with AI"&gt;&lt;br&gt;&lt;p&gt;Demis Hassabis on achieving AGI by 2030, curing diseases with AI, and humanity's irreplaceable role in the future of artificial intelligence.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/exclusive-demis-hassabis-on-agi-curing-diseases-with-ai</guid>
+      <pubDate>Wed, 27 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Pope just weighed in on AI</title>
       <link>https://www.therundown.ai/p/the-pope-just-weighed-in-on-ai</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3942e7ca-95bf-4fbe-8fe1-483c3df06fed/claudecomputeruse.jpg?t=1774313163" alt="Anthropic's Claude gets remote control"&gt;&lt;br&gt;&lt;p&gt;Anthropic's Claude gains remote control capabilities, letting you manage tasks from your phone while the AI assistant handles your Mac directly—transforming Claude into a digital employee.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-claude-gets-remote-control</guid>
       <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk's 'Terafab' AI chip factory</title>
-      <link>https://www.therundown.ai/p/elon-musk-terafab-ai-chip-factory</link>
-      <description>Elon Musk's Terafab AI chip factory aims to revolutionize compute production, uniting Tesla, SpaceX, and xAI in ambitious chip fabrication innovation.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4b9f8d0b-02ac-4ae1-920c-7910959b0e5f/terafab.jpg?t=1774213911" alt="Elon Musk's 'Terafab' AI chip factory"&gt;&lt;br&gt;&lt;p&gt;Elon Musk's Terafab AI chip factory aims to revolutionize compute production, uniting Tesla, SpaceX, and xAI in ambitious chip fabrication innovation.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/elon-musk-terafab-ai-chip-factory</guid>
-      <pubDate>Mon, 23 Mar 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
