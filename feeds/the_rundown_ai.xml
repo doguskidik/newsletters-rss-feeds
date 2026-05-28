@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 01:59:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 09:43:49 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>A world model for proteins is here</title>
+      <link>https://www.therundown.ai/p/a-world-model-for-proteins-is-here</link>
+      <description>AI breakthrough: World model for proteins revolutionizes drug discovery and molecular design, cutting development timelines from years to weeks. Explore cutting-edge innovation.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/cfc1d72c-b94c-40ab-ba97-a4119cfb8912/ChatGPT_Image_May_28__2026__12_10_10_PM.png?t=1779956027" alt="A world model for proteins is here"&gt;&lt;br&gt;&lt;p&gt;AI breakthrough: World model for proteins revolutionizes drug discovery and molecular design, cutting development timelines from years to weeks. Explore cutting-edge innovation.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/a-world-model-for-proteins-is-here</guid>
+      <pubDate>Thu, 28 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Exclusive: Demis Hassabis on AGI, curing diseases with AI</title>
       <link>https://www.therundown.ai/p/exclusive-demis-hassabis-on-agi-curing-diseases-with-ai</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/dad47cc7-8a57-4e6c-b36b-f88885e1a8c1/sorax.jpg?t=1774390361" alt="OpenAI's Sora gets the axe"&gt;&lt;br&gt;&lt;p&gt;OpenAI discontinues Sora video generator, shifting focus to new 'Spud' model and intensifying competition with Anthropic's Claude in enterprise AI.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/openai-sora-gets-the-axe</guid>
       <pubDate>Wed, 25 Mar 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic's Claude gets remote control</title>
-      <link>https://www.therundown.ai/p/anthropic-claude-gets-remote-control</link>
-      <description>Anthropic's Claude gains remote control capabilities, letting you manage tasks from your phone while the AI assistant handles your Mac directly—transforming Claude into a digital employee.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3942e7ca-95bf-4fbe-8fe1-483c3df06fed/claudecomputeruse.jpg?t=1774313163" alt="Anthropic's Claude gets remote control"&gt;&lt;br&gt;&lt;p&gt;Anthropic's Claude gains remote control capabilities, letting you manage tasks from your phone while the AI assistant handles your Mac directly—transforming Claude into a digital employee.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-claude-gets-remote-control</guid>
-      <pubDate>Tue, 24 Mar 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
