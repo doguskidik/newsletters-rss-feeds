@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 02:37:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 11:07:48 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>AI's next dataset is your apartment</title>
+      <link>https://www.therundown.ai/p/ai-next-dataset-is-your-apartment</link>
+      <description>Discover how a startup monetizes apartment cleaning through data collection, revealing AI's next frontier in training datasets and the hidden costs of free services.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/7b0f1029-ecff-4f2a-b28d-0475225b8409/shift.jpg?t=1780262541" alt="AI's next dataset is your apartment"&gt;&lt;br&gt;&lt;p&gt;Discover how a startup monetizes apartment cleaning through data collection, revealing AI's next frontier in training datasets and the hidden costs of free services.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/ai-next-dataset-is-your-apartment</guid>
+      <pubDate>Mon, 01 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic just eclipsed OpenAI</title>
       <link>https://www.therundown.ai/p/anthropic-just-eclipsed-openai</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/349d19d5-e642-48af-8895-f0a8e84714ad/tribe2.jpg?t=1774570660" alt="Meta's new open-source brain AI "&gt;&lt;br&gt;&lt;p&gt;Meta's open-source brain AI predicts neural activity from visual and audio stimuli, advancing neuroscience research while raising questions about AI and advertising implications.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/meta-new-open-source-brain-ai</guid>
       <pubDate>Fri, 27 Mar 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ARC-AGI-3 resets frontier AI scoreboard</title>
-      <link>https://www.therundown.ai/p/arc-agi-3-resets-frontier-ai-scoreboard</link>
-      <description>ARC-AGI-3 resets the AI frontier scoreboard as top models struggle with only 1% scores, revealing how far we still are from AGI breakthroughs.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d48bc2de-9d6a-428e-bc02-a0e6c1f6164b/arcagi3.jpg?t=1774480230" alt="ARC-AGI-3 resets frontier AI scoreboard"&gt;&lt;br&gt;&lt;p&gt;ARC-AGI-3 resets the AI frontier scoreboard as top models struggle with only 1% scores, revealing how far we still are from AGI breakthroughs.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/arc-agi-3-resets-frontier-ai-scoreboard</guid>
-      <pubDate>Thu, 26 Mar 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
