@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 02:36:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 10:02:13 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Nvidia corners the AI agent stack</title>
+      <link>https://www.therundown.ai/p/nvidia-corners-the-ai-agent-stack</link>
+      <description>Nvidia corners the AI agent stack with new ecosystem innovations. Explore how Jensen Huang's latest reveals position the chipmaker to dominate agentic AI across devices, data centers, and beyond.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8c24238b-668d-48da-a9c1-a73427fd71a6/jensencomputers.jpg?t=1780361001" alt="Nvidia corners the AI agent stack"&gt;&lt;br&gt;&lt;p&gt;Nvidia corners the AI agent stack with new ecosystem innovations. Explore how Jensen Huang's latest reveals position the chipmaker to dominate agentic AI across devices, data centers, and beyond.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/nvidia-corners-the-ai-agent-stack</guid>
+      <pubDate>Tue, 02 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AI's next dataset is your apartment</title>
       <link>https://www.therundown.ai/p/ai-next-dataset-is-your-apartment</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b7e12ae8-96be-4bf8-bfbc-b7a74b1b50d8/01_cover.png?t=1774450597" alt="An exclusive Q&amp;A with alibaba.com's Kuo Zhang"&gt;&lt;br&gt;&lt;p&gt;How Accio Work is turning agent teams into operators across real-world workflows.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/an-exclusive-q-a-with-alibaba-com-s-kuo-zhang</guid>
       <pubDate>Sun, 29 Mar 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta's new open-source brain AI </title>
-      <link>https://www.therundown.ai/p/meta-new-open-source-brain-ai</link>
-      <description>Meta's open-source brain AI predicts neural activity from visual and audio stimuli, advancing neuroscience research while raising questions about AI and advertising implications.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/349d19d5-e642-48af-8895-f0a8e84714ad/tribe2.jpg?t=1774570660" alt="Meta's new open-source brain AI "&gt;&lt;br&gt;&lt;p&gt;Meta's open-source brain AI predicts neural activity from visual and audio stimuli, advancing neuroscience research while raising questions about AI and advertising implications.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/meta-new-open-source-brain-ai</guid>
-      <pubDate>Fri, 27 Mar 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
