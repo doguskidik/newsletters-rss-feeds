@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 02:43:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 10:42:17 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Microsoft paves its own AI way at Build</title>
+      <link>https://www.therundown.ai/p/microsoft-paves-its-own-ai-way-at-build</link>
+      <description>Microsoft charts its own AI course at Build 2025 with seven new models and agent-first hardware, breaking free from OpenAI dependence and reshaping the future of AI development.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/43917a0f-aaba-4a4d-b740-69397de9af38/build26.jpg?t=1780442529" alt="Microsoft paves its own AI way at Build"&gt;&lt;br&gt;&lt;p&gt;Microsoft charts its own AI course at Build 2025 with seven new models and agent-first hardware, breaking free from OpenAI dependence and reshaping the future of AI development.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/microsoft-paves-its-own-ai-way-at-build</guid>
+      <pubDate>Wed, 03 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Nvidia corners the AI agent stack</title>
       <link>https://www.therundown.ai/p/nvidia-corners-the-ai-agent-stack</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f92634a2-7a62-4dbc-97ce-8211847e3556/mythos.jpg?t=1774825592" alt="Anthropic's secret 'Mythos' model "&gt;&lt;br&gt;&lt;p&gt;Anthropic's secret 'Mythos' model leaks via CMS error, revealing an advanced AI tier with cybersecurity capabilities surpassing current frontier models.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-secret-mythos-model</guid>
       <pubDate>Mon, 30 Mar 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An exclusive Q&amp;A with alibaba.com's Kuo Zhang</title>
-      <link>https://www.therundown.ai/p/an-exclusive-q-a-with-alibaba-com-s-kuo-zhang</link>
-      <description>How Accio Work is turning agent teams into operators across real-world workflows.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b7e12ae8-96be-4bf8-bfbc-b7a74b1b50d8/01_cover.png?t=1774450597" alt="An exclusive Q&amp;A with alibaba.com's Kuo Zhang"&gt;&lt;br&gt;&lt;p&gt;How Accio Work is turning agent teams into operators across real-world workflows.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/an-exclusive-q-a-with-alibaba-com-s-kuo-zhang</guid>
-      <pubDate>Sun, 29 Mar 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
