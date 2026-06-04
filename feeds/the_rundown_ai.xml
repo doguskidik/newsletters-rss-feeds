@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 02:38:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 09:42:23 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Ideogram and Reve rethink how AI images get made</title>
+      <link>https://www.therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made</link>
+      <description>Ideogram 4.0 and Reve 2.0 revolutionize AI image creation with post-generation editing, typography control, and layout customization—reshaping how creators use AI models.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2828fd11-d79e-4b97-98b8-4e06655d2020/ideogram-reve.jpg?t=1780534279" alt="Ideogram and Reve rethink how AI images get made"&gt;&lt;br&gt;&lt;p&gt;Ideogram 4.0 and Reve 2.0 revolutionize AI image creation with post-generation editing, typography control, and layout customization—reshaping how creators use AI models.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made</guid>
+      <pubDate>Thu, 04 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Microsoft paves its own AI way at Build</title>
       <link>https://www.therundown.ai/p/microsoft-paves-its-own-ai-way-at-build</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d9294349-a5d7-400b-863c-de4b14a7044c/Altman_Vader_-_Dramatic_Angle.png?t=1774914108" alt="OpenAI's $1B Disney blindside"&gt;&lt;br&gt;&lt;p&gt;OpenAI's $1B Disney blindside: Sora shutdown shocks the AI video world. Plus, build travel itineraries with Perplexity Computer in this week's AI update.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/openai-1b-disney-blindside</guid>
       <pubDate>Tue, 31 Mar 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic's secret 'Mythos' model </title>
-      <link>https://www.therundown.ai/p/anthropic-secret-mythos-model</link>
-      <description>Anthropic's secret 'Mythos' model leaks via CMS error, revealing an advanced AI tier with cybersecurity capabilities surpassing current frontier models.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f92634a2-7a62-4dbc-97ce-8211847e3556/mythos.jpg?t=1774825592" alt="Anthropic's secret 'Mythos' model "&gt;&lt;br&gt;&lt;p&gt;Anthropic's secret 'Mythos' model leaks via CMS error, revealing an advanced AI tier with cybersecurity capabilities surpassing current frontier models.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-secret-mythos-model</guid>
-      <pubDate>Mon, 30 Mar 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
