@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 02:36:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 10:15:49 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Washington wants a piece of OpenAI </title>
+      <link>https://www.therundown.ai/p/washington-wants-a-piece-of-openai</link>
+      <description>Washington eyes stake in OpenAI amid policy shift. Plus: Deploy agentic AI frameworks to qualify five prospects daily with cutting-edge productivity tools.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/504b4ba3-4bf6-47af-ade9-f1a4160bf4d3/openaiflag.jpg?t=1780878075" alt="Washington wants a piece of OpenAI "&gt;&lt;br&gt;&lt;p&gt;Washington eyes stake in OpenAI amid policy shift. Plus: Deploy agentic AI frameworks to qualify five prospects daily with cutting-edge productivity tools.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/washington-wants-a-piece-of-openai</guid>
+      <pubDate>Mon, 08 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic confronts the RSI clock</title>
       <link>https://www.therundown.ai/p/anthropic-confronts-the-rsi-clock</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/be8a1bee-c699-427c-ac73-c9c73343e019/blockdorsey.jpg?t=1775072791" alt="Dorsey makes the AI case against managers"&gt;&lt;br&gt;&lt;p&gt;PLUS: Build a productivity tool with Replit &lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/dorsey-makes-the-ai-case-against-managers</guid>
       <pubDate>Thu, 02 Apr 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI’s new $122B funding, 'superapp'</title>
-      <link>https://www.therundown.ai/p/openai-new-122b-funding-superapp</link>
-      <description>OpenAI closes record $122B funding round at $852B valuation, positioning itself as AI industry leader despite recent controversies and challenges.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a159503b-dab5-444b-9be4-225a24e8e486/export__6_.png?t=1775004570" alt="OpenAI’s new $122B funding, 'superapp'"&gt;&lt;br&gt;&lt;p&gt;OpenAI closes record $122B funding round at $852B valuation, positioning itself as AI industry leader despite recent controversies and challenges.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/openai-new-122b-funding-superapp</guid>
-      <pubDate>Wed, 01 Apr 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
