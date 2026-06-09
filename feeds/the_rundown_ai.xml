@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 08:58:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 14:22:28 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Apple’s new Siri AI overhaul is here (sort of)</title>
+      <link>https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of</link>
+      <description>Apple's Siri AI overhaul arrives at WWDC26 with on-device intelligence, while OpenAI enters its third phase. Can Apple finally catch up in AI?</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d09ce26b-9d02-4cb3-8bcd-c69083530d91/siriai.jpg?t=1780983661" alt="Apple’s new Siri AI overhaul is here (sort of)"&gt;&lt;br&gt;&lt;p&gt;Apple's Siri AI overhaul arrives at WWDC26 with on-device intelligence, while OpenAI enters its third phase. Can Apple finally catch up in AI?&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of</guid>
+      <pubDate>Tue, 09 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Washington wants a piece of OpenAI </title>
       <link>https://www.therundown.ai/p/washington-wants-a-piece-of-openai</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/42822840-14a2-4782-ae54-f6f13c8ba536/medvi.jpg?t=1775167706" alt="AI just made the billion-dollar solo founder real"&gt;&lt;br&gt;&lt;p&gt;AI makes billion-dollar solo founder possible—Matthew Gallagher's AI-powered telehealth startup Medvi hits $1.8B in sales from his LA home.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/ai-just-made-the-billion-dollar-solo-founder-real</guid>
       <pubDate>Fri, 03 Apr 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dorsey makes the AI case against managers</title>
-      <link>https://www.therundown.ai/p/dorsey-makes-the-ai-case-against-managers</link>
-      <description>PLUS: Build a productivity tool with Replit </description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/be8a1bee-c699-427c-ac73-c9c73343e019/blockdorsey.jpg?t=1775072791" alt="Dorsey makes the AI case against managers"&gt;&lt;br&gt;&lt;p&gt;PLUS: Build a productivity tool with Replit &lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/dorsey-makes-the-ai-case-against-managers</guid>
-      <pubDate>Thu, 02 Apr 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
