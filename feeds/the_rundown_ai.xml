@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 02:13:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 09:39:17 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Anthropic hands the public Mythos-class AI</title>
+      <link>https://www.therundown.ai/p/anthropic-hands-the-public-mythos-class-ai</link>
+      <description>Anthropic releases Mythos-class AI model Fable, setting new benchmarks and reigniting discussions about powerful AI capabilities and their public availability.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/decb5ed5-a404-48d9-8970-38ff1d6b2ea8/fablebenchmarks.jpg?t=1781043974" alt="Anthropic hands the public Mythos-class AI"&gt;&lt;br&gt;&lt;p&gt;Anthropic releases Mythos-class AI model Fable, setting new benchmarks and reigniting discussions about powerful AI capabilities and their public availability.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-hands-the-public-mythos-class-ai</guid>
+      <pubDate>Wed, 10 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Apple’s new Siri AI overhaul is here (sort of)</title>
       <link>https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/484a3ee0-a9a2-4a7d-bd67-343b77247ec8/78D2pRBIlbKlpKsq.webp?t=1775424471" alt="Anthropic tells OpenClaw users to pay up"&gt;&lt;br&gt;&lt;p&gt;Anthropic cuts off OpenClaw users from Claude subscriptions, escalating pricing dispute with third-party agent platforms amid fierce AI competition.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-tells-openclaw-users-to-pay-up</guid>
       <pubDate>Mon, 06 Apr 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI just made the billion-dollar solo founder real</title>
-      <link>https://www.therundown.ai/p/ai-just-made-the-billion-dollar-solo-founder-real</link>
-      <description>AI makes billion-dollar solo founder possible—Matthew Gallagher's AI-powered telehealth startup Medvi hits $1.8B in sales from his LA home.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/42822840-14a2-4782-ae54-f6f13c8ba536/medvi.jpg?t=1775167706" alt="AI just made the billion-dollar solo founder real"&gt;&lt;br&gt;&lt;p&gt;AI makes billion-dollar solo founder possible—Matthew Gallagher's AI-powered telehealth startup Medvi hits $1.8B in sales from his LA home.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/ai-just-made-the-billion-dollar-solo-founder-real</guid>
-      <pubDate>Fri, 03 Apr 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
