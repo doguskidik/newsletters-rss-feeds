@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 02:31:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 09:55:36 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Jeff Bezos' $41B 'artificial general engineer'</title>
+      <link>https://www.therundown.ai/p/jeff-bezos-41b-artificial-general-engineer</link>
+      <description>Jeff Bezos invests $41B in 'artificial general engineer' startup Prometheus, aiming to revolutionize machine design while arguing AI will create more jobs, not fewer.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/41e814d2-94dc-4369-bb38-1732d8dcd384/prometheus-white.jpg?t=1781227172" alt="Jeff Bezos' $41B 'artificial general engineer'"&gt;&lt;br&gt;&lt;p&gt;Jeff Bezos invests $41B in 'artificial general engineer' startup Prometheus, aiming to revolutionize machine design while arguing AI will create more jobs, not fewer.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/jeff-bezos-41b-artificial-general-engineer</guid>
+      <pubDate>Fri, 12 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic writes Washington an AI regulation playbook</title>
       <link>https://www.therundown.ai/p/anthropic-writes-washington-an-ai-regulation-playbook</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4392c1b0-9630-4baa-b5c5-3cd7ddeb057a/glasswing.jpg?t=1775610581" alt="Anthropic's new AI is too powerful for the world"&gt;&lt;br&gt;&lt;p&gt;Anthropic's new Claude Mythos AI is too powerful for public release, sparking debate about AI safety as it's deployed through a defensive cybersecurity coalition instead.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-new-ai-is-too-powerful-for-the-world</guid>
       <pubDate>Wed, 08 Apr 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sam Altman's new 'social contract' for AI</title>
-      <link>https://www.therundown.ai/p/sam-altman-new-social-contract-for-ai</link>
-      <description>Sam Altman proposes a "social contract" for AI: robot taxes, wealth funds, and a 4-day workweek to prepare society for unstoppable artificial intelligence.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/87e88168-a982-4274-a686-c086698e2cd8/industrialpolicy.jpg?t=1775516122" alt="Sam Altman's new 'social contract' for AI"&gt;&lt;br&gt;&lt;p&gt;Sam Altman proposes a "social contract" for AI: robot taxes, wealth funds, and a 4-day workweek to prepare society for unstoppable artificial intelligence.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/sam-altman-new-social-contract-for-ai</guid>
-      <pubDate>Tue, 07 Apr 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
