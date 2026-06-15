@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 02:40:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 11:44:16 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Anthropic pulls Mythos, Fable after U.S. order</title>
+      <link>https://www.therundown.ai/p/anthropic-pulls-mythos-fable-after-u-s-order</link>
+      <description>PLUS: Turn any ChatGPT image into an editable Canva design</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/173ad910-c0b6-4306-b27e-48d894d9b375/fable-mythos.jpg?t=1781466714" alt="Anthropic pulls Mythos, Fable after U.S. order"&gt;&lt;br&gt;&lt;p&gt;PLUS: Turn any ChatGPT image into an editable Canva design&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-pulls-mythos-fable-after-u-s-order</guid>
+      <pubDate>Mon, 15 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Jeff Bezos' $41B 'artificial general engineer'</title>
       <link>https://www.therundown.ai/p/jeff-bezos-41b-artificial-general-engineer</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/141d7907-b72c-47d1-8624-1f6d7515f126/musespark.jpg?t=1775696204" alt="Meta Superintelligence Labs ships its first model"&gt;&lt;br&gt;&lt;p&gt;Meta Superintelligence Labs releases its first AI model, positioning the tech giant back in the competitive race with powerful new capabilities and resources.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/meta-superintelligence-labs-ships-its-first-model</guid>
       <pubDate>Thu, 09 Apr 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic's new AI is too powerful for the world</title>
-      <link>https://www.therundown.ai/p/anthropic-new-ai-is-too-powerful-for-the-world</link>
-      <description>Anthropic's new Claude Mythos AI is too powerful for public release, sparking debate about AI safety as it's deployed through a defensive cybersecurity coalition instead.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4392c1b0-9630-4baa-b5c5-3cd7ddeb057a/glasswing.jpg?t=1775610581" alt="Anthropic's new AI is too powerful for the world"&gt;&lt;br&gt;&lt;p&gt;Anthropic's new Claude Mythos AI is too powerful for public release, sparking debate about AI safety as it's deployed through a defensive cybersecurity coalition instead.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-new-ai-is-too-powerful-for-the-world</guid>
-      <pubDate>Wed, 08 Apr 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
