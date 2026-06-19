@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 02:53:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:11:15 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Step into Midjourney's spa for a body scan</title>
+      <link>https://www.therundown.ai/p/step-into-midjourney-s-spa-for-a-body-scan</link>
+      <description>PLUS: Save hours on meeting prep with Google Gemini</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/5eb9534f-fdca-44f4-a743-60b570bc9b1f/spa.jpg?t=1781819765" alt="Step into Midjourney's spa for a body scan"&gt;&lt;br&gt;&lt;p&gt;PLUS: Save hours on meeting prep with Google Gemini&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/step-into-midjourney-s-spa-for-a-body-scan</guid>
+      <pubDate>Fri, 19 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Inside the deadlock keeping Mythos offline</title>
       <link>https://www.therundown.ai/p/inside-the-deadlock-keeping-mythos-offline</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/85f7bda0-7be0-4f60-9be4-63292953ee7d/export__1_.jpg?t=1776205418" alt="OpenAI's GPT-5.4-Cyber rejects Mythos playbook"&gt;&lt;br&gt;&lt;p&gt;OpenAI's GPT-5.4-Cyber challenges Anthropic's restricted Mythos approach, democratizing AI security by enabling broader defender access. Plus: automate Chrome with Gemini.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/openai-gpt-5-4-cyber-rejects-mythos-playbook</guid>
       <pubDate>Wed, 15 Apr 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What happens when AI runs a retail store</title>
-      <link>https://www.therundown.ai/p/what-happens-when-ai-runs-a-retail-store</link>
-      <description>AI takes the helm of a real retail store with $100k budget and full autonomy, revealing what happens when algorithms run operations and hire staff in San Francisco.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/abc3351d-ecd7-4ec8-99f6-f63555cbe682/ANDON.jpg?t=1776128994" alt="What happens when AI runs a retail store"&gt;&lt;br&gt;&lt;p&gt;AI takes the helm of a real retail store with $100k budget and full autonomy, revealing what happens when algorithms run operations and hire staff in San Francisco.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/what-happens-when-ai-runs-a-retail-store</guid>
-      <pubDate>Tue, 14 Apr 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
