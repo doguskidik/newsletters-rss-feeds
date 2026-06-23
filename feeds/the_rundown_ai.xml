@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 08:57:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 14:25:48 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Sakana’s Fugu takes aim at the frontier</title>
+      <link>https://www.therundown.ai/p/sakana-fugu-takes-aim-at-the-frontier</link>
+      <description>Sakana's Fugu orchestrates multiple AI models to avoid reliance on single providers, challenging frontier AI leaders with innovative model diversification and safety-focused architecture.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6aa774c5-a12f-4c15-b5f5-d4afe8f5df55/fugu.jpg?t=1782175650" alt="Sakana’s Fugu takes aim at the frontier"&gt;&lt;br&gt;&lt;p&gt;Sakana's Fugu orchestrates multiple AI models to avoid reliance on single providers, challenging frontier AI leaders with innovative model diversification and safety-focused architecture.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/sakana-fugu-takes-aim-at-the-frontier</guid>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google's Nobel winner jumps to Anthropic</title>
       <link>https://www.therundown.ai/p/google-s-nobel-winner-jumps-to-anthropic</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8651b6b5-66b9-405b-9fb8-6e4af4044242/codexupgrade.jpg?t=1776375747" alt="OpenAI's superapp hiding inside Codex "&gt;&lt;br&gt;&lt;p&gt;OpenAI ships major Codex update with superapp features like background computer use and parallel agents, signaling progress toward an all-in-one platform.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/openai-superapp-hiding-inside-codex</guid>
       <pubDate>Fri, 17 Apr 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Allbirds ditches sneakers for AI compute</title>
-      <link>https://www.therundown.ai/p/allbirds-ditches-sneakers-for-ai-compute</link>
-      <description>Allbirds pivots from sneakers to AI compute with $50M deal, sparking a 600% stock surge and the year's wildest AI transformation story.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c2b5379f-bad3-4d55-bde5-1869da839b6b/export__15_.png?t=1776293559" alt="Allbirds ditches sneakers for AI compute"&gt;&lt;br&gt;&lt;p&gt;Allbirds pivots from sneakers to AI compute with $50M deal, sparking a 600% stock surge and the year's wildest AI transformation story.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/allbirds-ditches-sneakers-for-ai-compute</guid>
-      <pubDate>Thu, 16 Apr 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
