@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 08:46:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 14:02:24 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>OpenAI's spicy new custom AI chip</title>
+      <link>https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip</link>
+      <description>OpenAI's custom AI chip "Jalapeño" delivers state-of-the-art performance, built with AI assistance. Plus: Use AI price tracking to save on World Cup tickets.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/040222a6-17c3-40ff-8480-142d28106573/jalapeno.jpg?t=1782336832" alt="OpenAI's spicy new custom AI chip"&gt;&lt;br&gt;&lt;p&gt;OpenAI's custom AI chip "Jalapeño" delivers state-of-the-art performance, built with AI assistance. Plus: Use AI price tracking to save on World Cup tickets.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip</guid>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Meet your new Slack coworker — Claude</title>
       <link>https://www.therundown.ai/p/meet-your-new-slack-coworker-claude</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/06b565b2-91a1-4a3d-84e9-38ee904433d2/claudedesign.jpg?t=1776639148" alt="Claude comes for the design stack"&gt;&lt;br&gt;&lt;p&gt;Claude revolutionizes the design stack with AI-powered prototypes from prompts and screenshots. Plus: free coding agent for your laptop.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/claude-comes-for-the-design-stack</guid>
       <pubDate>Mon, 20 Apr 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exclusive: Inside Canva AI 2.0 with CPO Cameron Adams</title>
-      <link>https://www.therundown.ai/p/exclusive-inside-canva-ai-2-0-with-cpo-cameron-adams</link>
-      <description>How Canva AI 2.0 changes design, productivity, and what it means to be great at your craft</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3103d7ff-1ff2-4162-9741-58b4a3a421fc/01_cover.png?t=1776222448" alt="Exclusive: Inside Canva AI 2.0 with CPO Cameron Adams"&gt;&lt;br&gt;&lt;p&gt;How Canva AI 2.0 changes design, productivity, and what it means to be great at your craft&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/exclusive-inside-canva-ai-2-0-with-cpo-cameron-adams</guid>
-      <pubDate>Sun, 19 Apr 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
