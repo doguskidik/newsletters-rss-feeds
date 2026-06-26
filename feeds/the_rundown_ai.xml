@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 08:49:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 14:01:51 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>White House reins in OpenAI's GPT-5.6</title>
+      <link>https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6</link>
+      <description>White House urges OpenAI to limit GPT-5.6 release over capability concerns, citing need for rigorous testing before public availability of powerful AI model.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/22c6ae29-7d23-49a4-b354-ea153af5ec75/ChatGPT_Image_Jun_26__2026__12_43_11_PM.png?t=1782458001" alt="White House reins in OpenAI's GPT-5.6"&gt;&lt;br&gt;&lt;p&gt;White House urges OpenAI to limit GPT-5.6 release over capability concerns, citing need for rigorous testing before public availability of powerful AI model.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/white-house-reins-in-openai-gpt-5-6</guid>
+      <pubDate>Fri, 26 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI's spicy new custom AI chip</title>
       <link>https://www.therundown.ai/p/openai-spicy-new-custom-ai-chip</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a01a3066-3e45-4ec1-a488-80f6e3e1d111/MkPr4mf0C84OUCGU.webp?t=1776723677" alt="Sergey Brin commits DeepMind to a Claude catch-up"&gt;&lt;br&gt;&lt;p&gt;Sergey Brin leads DeepMind strike team to close Gemini's coding gap with Claude, as Google's co-founder tackles AI's next frontier in competitive AI development.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/sergey-brin-commits-deepmind-to-a-claude-catch-up</guid>
       <pubDate>Tue, 21 Apr 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude comes for the design stack</title>
-      <link>https://www.therundown.ai/p/claude-comes-for-the-design-stack</link>
-      <description>Claude revolutionizes the design stack with AI-powered prototypes from prompts and screenshots. Plus: free coding agent for your laptop.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/06b565b2-91a1-4a3d-84e9-38ee904433d2/claudedesign.jpg?t=1776639148" alt="Claude comes for the design stack"&gt;&lt;br&gt;&lt;p&gt;Claude revolutionizes the design stack with AI-powered prototypes from prompts and screenshots. Plus: free coding agent for your laptop.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/claude-comes-for-the-design-stack</guid>
-      <pubDate>Mon, 20 Apr 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
