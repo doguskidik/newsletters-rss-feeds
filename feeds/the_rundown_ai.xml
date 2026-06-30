@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 08:55:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 13:53:51 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Meta's brain-reading AI leaves letters behind</title>
+      <link>https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind</link>
+      <description>Meta's brain-reading AI advances to decode full sentences from brain scans, bringing hope to people with speech loss through non-invasive neural technology.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/530ebfae-6271-4db9-90f9-c46d0eff335e/bqv2.jpg?t=1782773410" alt="Meta's brain-reading AI leaves letters behind"&gt;&lt;br&gt;&lt;p&gt;Meta's brain-reading AI advances to decode full sentences from brain scans, bringing hope to people with speech loss through non-invasive neural technology.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/meta-brain-reading-ai-leaves-letters-behind</guid>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI's most powerful AI is here — but not for everyone</title>
       <link>https://www.therundown.ai/p/openai-most-powerful-ai-is-here-but-not-for-everyone</link>
@@ -398,14 +406,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ffb9b6c0-4d15-464f-a2aa-10a72e697bdb/76de7417-10f0-438f-834a-16925314468a.png?t=1776984545" alt="OpenAI's 'Spud' dethrones Claude on the frontier "&gt;&lt;br&gt;&lt;p&gt;OpenAI's new 'Spud' model surpasses Claude on AI leaderboards, marking a major shift in the AI frontier as Anthropic faces quality complaints.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/openai-spud-dethrones-claude-on-the-frontier</guid>
       <pubDate>Fri, 24 Apr 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic's locked-down Mythos leaks</title>
-      <link>https://www.therundown.ai/p/anthropic-locked-down-mythos-leaks</link>
-      <description>Anthropic's locked-down Mythos AI reportedly leaked to Discord users, raising serious concerns about AI safety and security protocols for powerful systems.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/abf739a8-5f00-44ef-8654-5f974d6fb7c4/fc6a42a0-c425-4894-8cc0-d5e7ab856735__1_.png?t=1776896116" alt="Anthropic's locked-down Mythos leaks"&gt;&lt;br&gt;&lt;p&gt;Anthropic's locked-down Mythos AI reportedly leaked to Discord users, raising serious concerns about AI safety and security protocols for powerful systems.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-locked-down-mythos-leaks</guid>
-      <pubDate>Thu, 23 Apr 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI reclaims the image crown</title>
