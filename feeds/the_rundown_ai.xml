@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 08:40:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 13:28:33 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Anthropic's Fable returns worldwide</title>
+      <link>https://www.therundown.ai/p/anthropic-fable-returns-worldwide</link>
+      <description>Anthropic's Fable 5 returns worldwide after government shutdown, bringing new AI guardrails and closer regulatory oversight of frontier model deployments.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c204538b-b994-4038-b552-0e5910b5574e/fable-return.png?t=1782944534" alt="Anthropic's Fable returns worldwide"&gt;&lt;br&gt;&lt;p&gt;Anthropic's Fable 5 returns worldwide after government shutdown, bringing new AI guardrails and closer regulatory oversight of frontier model deployments.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-fable-returns-worldwide</guid>
+      <pubDate>Thu, 02 Jul 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sonnet 5 ships as Washington frees Fable </title>
       <link>https://www.therundown.ai/p/sonnet-5-ships-as-washington-frees-fable</link>
@@ -398,14 +406,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2960de15-6de4-4c83-8234-d2c8ef6b44d5/oaidistractedmeme.jpg?t=1777335592" alt="OpenAI and Microsoft's new open relationship"&gt;&lt;br&gt;&lt;p&gt;OpenAI and Microsoft's evolving partnership opens doors for cloud alternatives like Amazon, while Microsoft maintains a lucrative but less exclusive role in the AI ecosystem.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/openai-and-microsoft-new-open-relationship</guid>
       <pubDate>Tue, 28 Apr 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek resurfaces with cheap, capable V4</title>
-      <link>https://www.therundown.ai/p/deepseek-resurfaces-with-cheap-capable-v4</link>
-      <description>DeepSeek V4 emerges as a cheaper, capable AI model alternative. Plus: brand refresh strategies with Claude Design for modern creative workflows.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/da9ff7a7-d2bc-4093-a7d5-63f40b4c2e6a/83e1e1ff-a9d0-4e18-90bf-2528822c0238.png?t=1777244163" alt="DeepSeek resurfaces with cheap, capable V4"&gt;&lt;br&gt;&lt;p&gt;DeepSeek V4 emerges as a cheaper, capable AI model alternative. Plus: brand refresh strategies with Claude Design for modern creative workflows.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/deepseek-resurfaces-with-cheap-capable-v4</guid>
-      <pubDate>Mon, 27 Apr 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI reclaims the image crown</title>
