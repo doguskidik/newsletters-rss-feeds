@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 08:46:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 14:04:46 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Apple takes OpenAI to court</title>
+      <link>https://www.therundown.ai/p/apple-takes-openai-to-court</link>
+      <description>Apple sues OpenAI over stolen hardware secrets from 400+ poached employees, demanding unreleased Jony Ive-designed tech be shelved in landmark tech dispute.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/550d17d6-114d-49ca-8172-42e5384f4298/appleoailawsuit.png?t=1783800313" alt="Apple takes OpenAI to court"&gt;&lt;br&gt;&lt;p&gt;Apple sues OpenAI over stolen hardware secrets from 400+ poached employees, demanding unreleased Jony Ive-designed tech be shelved in landmark tech dispute.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/apple-takes-openai-to-court</guid>
+      <pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI sends GPT-5.6 to Work </title>
       <link>https://www.therundown.ai/p/openai-sends-gpt-5-6-to-work</link>
@@ -382,14 +390,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/facb2845-d52a-4ddc-96d4-e096379149d4/gptvoice.jpg?t=1778193441" alt="OpenAI closes reasoning gap in voice agents"&gt;&lt;br&gt;&lt;p&gt;OpenAI's new voice agents feature advanced reasoning and real-time speech capabilities, enabling AI to handle complex tasks at natural conversation speed with improved tool use.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/openai-closes-reasoning-gap-in-voice-agents</guid>
       <pubDate>Fri, 08 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic, SpaceX(AI) become unlikely compute partners</title>
-      <link>https://www.therundown.ai/p/anthropic-spacex-ai-become-unlikely-compute-partners</link>
-      <description>Anthropic and SpaceX's AI unit forge surprising compute partnership, with Musk renting Colossus cluster to rival Claude and reshaping the AI compute landscape.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/dd9e5cfc-5490-43ee-8910-3212ab3762bb/image__1_.png?t=1778123433" alt="Anthropic, SpaceX(AI) become unlikely compute partners"&gt;&lt;br&gt;&lt;p&gt;Anthropic and SpaceX's AI unit forge surprising compute partnership, with Musk renting Colossus cluster to rival Claude and reshaping the AI compute landscape.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-spacex-ai-become-unlikely-compute-partners</guid>
-      <pubDate>Thu, 07 May 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The White House rethinks its Anthropic fight</title>
