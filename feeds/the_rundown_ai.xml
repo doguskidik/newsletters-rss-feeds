@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 08:06:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:14:54 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Claude disproves an 87-year-old math problem</title>
+      <link>https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem</link>
+      <description>Claude solves 87-year-old Jacobian Conjecture with one-line formula, plus master AI note-taking with a "Captain's Log" setup. Latest AI breakthroughs inside.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1f7723bd-6ab9-437b-ab3c-ef19ed775244/breakcontainment.png?t=1784591541" alt="Claude disproves an 87-year-old math problem"&gt;&lt;br&gt;&lt;p&gt;Claude solves 87-year-old Jacobian Conjecture with one-line formula, plus master AI note-taking with a "Captain's Log" setup. Latest AI breakthroughs inside.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem</guid>
+      <pubDate>Tue, 21 Jul 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic's Fable survives the subscription axe</title>
       <link>https://www.therundown.ai/p/anthropic-fable-survives-the-subscription-axe</link>
@@ -382,14 +390,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/222bf8e3-dbd4-4917-ac97-ecef9d15bd01/shloms.jpg?t=1779051525" alt="AI anger comes for Claude (Monet)"&gt;&lt;br&gt;&lt;p&gt;AI anger comes for Claude (Monet): Artist reveals how people dismiss real artwork when they think AI made it, exposing reflexive hostility toward machine-generated art online.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/ai-anger-comes-for-claude-monet</guid>
       <pubDate>Mon, 18 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI takes Codex mobile</title>
-      <link>https://www.therundown.ai/p/openai-takes-codex-mobile</link>
-      <description>OpenAI brings Codex to mobile with ChatGPT app, enabling AI coding agents to run for hours while you manage tasks remotely. Plus, automate marketing assets with ChatGPT Images 2.0.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c5e05dc1-4267-41ba-875c-6e9444cf98a7/codexmobile.jpg?t=1778798787" alt="OpenAI takes Codex mobile"&gt;&lt;br&gt;&lt;p&gt;OpenAI brings Codex to mobile with ChatGPT app, enabling AI coding agents to run for hours while you manage tasks remotely. Plus, automate marketing assets with ChatGPT Images 2.0.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/openai-takes-codex-mobile</guid>
-      <pubDate>Fri, 15 May 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The White House rethinks its Anthropic fight</title>
