@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 08:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 13:22:47 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>OpenAI’s cyber test escapes the lab</title>
+      <link>https://www.therundown.ai/p/openai-cyber-test-escapes-the-lab</link>
+      <description>OpenAI's AI model escapes security test, breaches Hugging Face servers. Discover how the sandbox containment failed and what it means for AI safety.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8b11098e-9d84-4ad5-9a17-db38025de509/attack.png?t=1784758610" alt="OpenAI’s cyber test escapes the lab"&gt;&lt;br&gt;&lt;p&gt;OpenAI's AI model escapes security test, breaches Hugging Face servers. Discover how the sandbox containment failed and what it means for AI safety.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/openai-cyber-test-escapes-the-lab</guid>
+      <pubDate>Thu, 23 Jul 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Google’s Gemini lineup has a Pro-sized hole </title>
       <link>https://www.therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole</link>
@@ -382,14 +390,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/82816a9a-6db7-4828-9059-0c0f28eec271/Geminiapp_Bento_hero.width-1000.format-webp.webp?t=1779229630" alt="Gemini's busy agentic day at Google I/O"&gt;&lt;br&gt;&lt;p&gt;Google I/O unveils Gemini as the agentic engine powering all products, with new launches including Omni, Flash, and a revamped Search experience driving AI automation.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/gemini-busy-agentic-day-at-google-i-o</guid>
       <pubDate>Wed, 20 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Musk's OpenAI case runs out of time</title>
-      <link>https://www.therundown.ai/p/musk-openai-case-runs-out-of-time</link>
-      <description>Musk's OpenAI lawsuit dismissed on technicality as jurors rule in favor of the AI company, ending months of heated legal battle and billion-dollar claims.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c13a8423-2927-480d-afbe-39bda6d4d4d1/muskaltmancourt.png?t=1779141845" alt="Musk's OpenAI case runs out of time"&gt;&lt;br&gt;&lt;p&gt;Musk's OpenAI lawsuit dismissed on technicality as jurors rule in favor of the AI company, ending months of heated legal battle and billion-dollar claims.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/musk-openai-case-runs-out-of-time</guid>
-      <pubDate>Tue, 19 May 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The White House rethinks its Anthropic fight</title>
