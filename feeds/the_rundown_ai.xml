@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 08:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 13:15:59 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Black Forest Labs teaches video AI to run robots</title>
+      <link>https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots</link>
+      <description>Black Forest Labs' Flux 3 video AI trains robots on production lines while revolutionizing video editing. Discover AI's latest breakthrough in visual intelligence and automation.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/51c36d0b-34be-45c5-aaba-422192f86c53/flux3.png?t=1784845329" alt="Black Forest Labs teaches video AI to run robots"&gt;&lt;br&gt;&lt;p&gt;Black Forest Labs' Flux 3 video AI trains robots on production lines while revolutionizing video editing. Discover AI's latest breakthrough in visual intelligence and automation.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI’s cyber test escapes the lab</title>
       <link>https://www.therundown.ai/p/openai-cyber-test-escapes-the-lab</link>
@@ -382,14 +390,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/245399a7-782e-4ffd-b673-910f20cd701f/erdos.png?t=1779315509" alt="OpenAI cracks an 80-year math belief"&gt;&lt;br&gt;&lt;p&gt;OpenAI's reasoning model disproves 80-year math theory autonomously, marking a breakthrough in AI-driven scientific discovery and original research capabilities.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/openai-cracks-an-80-year-math-belief</guid>
       <pubDate>Thu, 21 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gemini's busy agentic day at Google I/O</title>
-      <link>https://www.therundown.ai/p/gemini-busy-agentic-day-at-google-i-o</link>
-      <description>Google I/O unveils Gemini as the agentic engine powering all products, with new launches including Omni, Flash, and a revamped Search experience driving AI automation.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/82816a9a-6db7-4828-9059-0c0f28eec271/Geminiapp_Bento_hero.width-1000.format-webp.webp?t=1779229630" alt="Gemini's busy agentic day at Google I/O"&gt;&lt;br&gt;&lt;p&gt;Google I/O unveils Gemini as the agentic engine powering all products, with new launches including Omni, Flash, and a revamped Search experience driving AI automation.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/gemini-busy-agentic-day-at-google-i-o</guid>
-      <pubDate>Wed, 20 May 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The White House rethinks its Anthropic fight</title>
