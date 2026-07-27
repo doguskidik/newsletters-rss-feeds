@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 01:53:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 09:28:11 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Anthropic's Opus 5 surprise</title>
+      <link>https://www.therundown.ai/p/anthropic-opus-5-surprise</link>
+      <description>Anthropic's Opus 5 surprises with stronger benchmarks than expected, outperforming competitors at an unbeatable price. Plus, Claude's new 'Record a Skill' feature automates tasks.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/1bb4c536-ce25-4f4e-808b-d37260c0c057/1d886f27-227d-4220-928a-dbe7294e2c8f.png?t=1785082985" alt="Anthropic's Opus 5 surprise"&gt;&lt;br&gt;&lt;p&gt;Anthropic's Opus 5 surprises with stronger benchmarks than expected, outperforming competitors at an unbeatable price. Plus, Claude's new 'Record a Skill' feature automates tasks.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-opus-5-surprise</guid>
+      <pubDate>Mon, 27 Jul 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Black Forest Labs teaches video AI to run robots</title>
       <link>https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ea705b5b-98d0-4985-8f44-d073747b5103/f384bdf0-6ced-45a1-ac64-72c2ec4c5af4.png?t=1777500298" alt="Zuckerberg's $500M AI biology swing"&gt;&lt;br&gt;&lt;p&gt;Mark Zuckerberg's biohub invests $500M in AI-powered virtual biology to revolutionize disease research and transform cellular-level understanding.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/zuckerberg-500m-ai-biology-swing</guid>
       <pubDate>Thu, 30 Apr 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI reclaims the image crown</title>
-      <link>https://www.therundown.ai/p/openai-reclaims-the-image-crown</link>
-      <description>OpenAI reclaims the image generation crown with breakthrough AI technology. Plus, discover Claude Live Artifacts for building your daily command center.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d9b5cf96-70be-41bb-bdf7-1c40229f8f68/lfV2XWXg.jpeg?t=1776809845" alt="OpenAI reclaims the image crown"&gt;&lt;br&gt;&lt;p&gt;OpenAI reclaims the image generation crown with breakthrough AI technology. Plus, discover Claude Live Artifacts for building your daily command center.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/openai-reclaims-the-image-crown</guid>
-      <pubDate>Wed, 22 Apr 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
