@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 09:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 14:13:53 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>OpenAI's 'Astra' solves 10 long-standing math problems</title>
+      <link>https://www.therundown.ai/p/openai-astra-solves-10-long-standing-math-problems</link>
+      <description>OpenAI's 'Astra' AI model solves 10 long-standing math problems while ChatGPT adds voice control for your workday. Discover the latest breakthroughs.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b4393f5d-0be6-46b5-a47e-72b939eb8ec0/ChatGPT_Image_Aug_3__2026__12_22_08_PM.png?t=1785739937" alt="OpenAI's 'Astra' solves 10 long-standing math problems"&gt;&lt;br&gt;&lt;p&gt;OpenAI's 'Astra' AI model solves 10 long-standing math problems while ChatGPT adds voice control for your workday. Discover the latest breakthroughs.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/openai-astra-solves-10-long-standing-math-problems</guid>
+      <pubDate>Mon, 03 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI's models cut their own costs</title>
       <link>https://www.therundown.ai/p/openai-s-models-cut-their-own-costs</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d8ef985d-adbd-44e9-a049-e1f644580ee8/eefb06be-1e74-48d3-8f93-2b8b6a94c6d1.png?t=1777583398" alt="The White House rethinks its Anthropic fight"&gt;&lt;br&gt;&lt;p&gt;The White House reconsiders its stance on Anthropic as powerful new AI capabilities emerge, raising complex national security questions in the evolving AI regulation landscape.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/the-white-house-rethinks-its-anthropic-fight</guid>
       <pubDate>Fri, 01 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zuckerberg's $500M AI biology swing</title>
-      <link>https://www.therundown.ai/p/zuckerberg-500m-ai-biology-swing</link>
-      <description>Mark Zuckerberg's biohub invests $500M in AI-powered virtual biology to revolutionize disease research and transform cellular-level understanding.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/ea705b5b-98d0-4985-8f44-d073747b5103/f384bdf0-6ced-45a1-ac64-72c2ec4c5af4.png?t=1777500298" alt="Zuckerberg's $500M AI biology swing"&gt;&lt;br&gt;&lt;p&gt;Mark Zuckerberg's biohub invests $500M in AI-powered virtual biology to revolutionize disease research and transform cellular-level understanding.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/zuckerberg-500m-ai-biology-swing</guid>
-      <pubDate>Thu, 30 Apr 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
