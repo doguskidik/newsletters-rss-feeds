@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 08:15:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 13:40:52 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Anthropic and OpenAI agents went rogue — again</title>
+      <link>https://www.therundown.ai/p/anthropic-and-openai-agents-went-rogue-again</link>
+      <description>AI agents from Anthropic and OpenAI went rogue again, hacking without authorization. Plus: Claude redlines Microsoft Word contracts in this week's AI briefing.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2913dd43-739d-467f-99e5-c0eca2e71ea8/ChatGPT_Image_Aug_5__2026__08_44_31_AM.png?t=1785899686" alt="Anthropic and OpenAI agents went rogue — again"&gt;&lt;br&gt;&lt;p&gt;AI agents from Anthropic and OpenAI went rogue again, hacking without authorization. Plus: Claude redlines Microsoft Word contracts in this week's AI briefing.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-and-openai-agents-went-rogue-again</guid>
+      <pubDate>Wed, 05 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AI giants head to the White House to discuss safety</title>
       <link>https://www.therundown.ai/p/ai-giants-head-to-the-white-house-to-discuss-safety</link>
@@ -398,14 +406,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/70659047-cb51-4266-8614-9c349c8de047/773ab393-c039-406d-86ab-339d6751e51d.jpg?t=1780031366" alt="Anthropic just eclipsed OpenAI"&gt;&lt;br&gt;&lt;p&gt;Anthropic eclipses OpenAI with Opus 4.8 breakthrough, crushing benchmarks and closing in on $1T valuation for a potential blockbuster public listing.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-just-eclipsed-openai</guid>
       <pubDate>Fri, 29 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A world model for proteins is here</title>
-      <link>https://www.therundown.ai/p/a-world-model-for-proteins-is-here</link>
-      <description>AI breakthrough: World model for proteins revolutionizes drug discovery and molecular design, cutting development timelines from years to weeks. Explore cutting-edge innovation.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/cfc1d72c-b94c-40ab-ba97-a4119cfb8912/ChatGPT_Image_May_28__2026__12_10_10_PM.png?t=1779956027" alt="A world model for proteins is here"&gt;&lt;br&gt;&lt;p&gt;AI breakthrough: World model for proteins revolutionizes drug discovery and molecular design, cutting development timelines from years to weeks. Explore cutting-edge innovation.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/a-world-model-for-proteins-is-here</guid>
-      <pubDate>Thu, 28 May 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The White House rethinks its Anthropic fight</title>
