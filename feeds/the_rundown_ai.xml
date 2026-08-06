@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 08:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 13:39:42 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Google shakes up its AI brain trust</title>
+      <link>https://www.therundown.ai/p/google-shakes-up-its-ai-brain-trust</link>
+      <description>Google shakes up its AI leadership as DeepMind CEO Demis Hassabis moves to chairman and Jeff Dean departs. Plus: Claude Voice builds websites hands-free.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/5f5f2c33-6b66-4653-b7aa-86d8609c36ce/ChatGPT_Image_Aug_6__2026__12_07_18_PM.png?t=1785998250" alt="Google shakes up its AI brain trust"&gt;&lt;br&gt;&lt;p&gt;Google shakes up its AI leadership as DeepMind CEO Demis Hassabis moves to chairman and Jeff Dean departs. Plus: Claude Voice builds websites hands-free.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/google-shakes-up-its-ai-brain-trust</guid>
+      <pubDate>Thu, 06 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic and OpenAI agents went rogue — again</title>
       <link>https://www.therundown.ai/p/anthropic-and-openai-agents-went-rogue-again</link>
@@ -398,14 +406,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/7b0f1029-ecff-4f2a-b28d-0475225b8409/shift.jpg?t=1780262541" alt="AI's next dataset is your apartment"&gt;&lt;br&gt;&lt;p&gt;Discover how a startup monetizes apartment cleaning through data collection, revealing AI's next frontier in training datasets and the hidden costs of free services.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/ai-next-dataset-is-your-apartment</guid>
       <pubDate>Mon, 01 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic just eclipsed OpenAI</title>
-      <link>https://www.therundown.ai/p/anthropic-just-eclipsed-openai</link>
-      <description>Anthropic eclipses OpenAI with Opus 4.8 breakthrough, crushing benchmarks and closing in on $1T valuation for a potential blockbuster public listing.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/70659047-cb51-4266-8614-9c349c8de047/773ab393-c039-406d-86ab-339d6751e51d.jpg?t=1780031366" alt="Anthropic just eclipsed OpenAI"&gt;&lt;br&gt;&lt;p&gt;Anthropic eclipses OpenAI with Opus 4.8 breakthrough, crushing benchmarks and closing in on $1T valuation for a potential blockbuster public listing.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-just-eclipsed-openai</guid>
-      <pubDate>Fri, 29 May 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The White House rethinks its Anthropic fight</title>
