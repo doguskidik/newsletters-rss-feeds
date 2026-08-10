@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 07:08:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 12:42:36 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>OpenAI puts the safety brakes on Astra </title>
+      <link>https://www.therundown.ai/p/openai-puts-the-safety-brakes-on-astra</link>
+      <description>OpenAI halts Astra development over critical cybersecurity risks, marking the first time the company triggered safety protocols. Plus: Loom and ChatGPT cut onboarding time.</description>
+      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/6e9d7fc5-4eed-4f63-b7d8-9a79ed6e908a/astra-critical.jpg?t=1786289743" alt="OpenAI puts the safety brakes on Astra "&gt;&lt;br&gt;&lt;p&gt;OpenAI halts Astra development over critical cybersecurity risks, marking the first time the company triggered safety protocols. Plus: Loom and ChatGPT cut onboarding time.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/openai-puts-the-safety-brakes-on-astra</guid>
+      <pubDate>Mon, 10 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AI designs viruses never seen in nature</title>
       <link>https://www.therundown.ai/p/ai-designs-viruses-never-seen-in-nature</link>
@@ -398,14 +406,6 @@
       <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/43917a0f-aaba-4a4d-b740-69397de9af38/build26.jpg?t=1780442529" alt="Microsoft paves its own AI way at Build"&gt;&lt;br&gt;&lt;p&gt;Microsoft charts its own AI course at Build 2025 with seven new models and agent-first hardware, breaking free from OpenAI dependence and reshaping the future of AI development.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/microsoft-paves-its-own-ai-way-at-build</guid>
       <pubDate>Wed, 03 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia corners the AI agent stack</title>
-      <link>https://www.therundown.ai/p/nvidia-corners-the-ai-agent-stack</link>
-      <description>Nvidia corners the AI agent stack with new ecosystem innovations. Explore how Jensen Huang's latest reveals position the chipmaker to dominate agentic AI across devices, data centers, and beyond.</description>
-      <content:encoded>&lt;img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8c24238b-668d-48da-a9c1-a73427fd71a6/jensencomputers.jpg?t=1780361001" alt="Nvidia corners the AI agent stack"&gt;&lt;br&gt;&lt;p&gt;Nvidia corners the AI agent stack with new ecosystem innovations. Explore how Jensen Huang's latest reveals position the chipmaker to dominate agentic AI across devices, data centers, and beyond.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/nvidia-corners-the-ai-agent-stack</guid>
-      <pubDate>Tue, 02 Jun 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The White House rethinks its Anthropic fight</title>
