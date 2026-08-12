@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 07:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 12:42:50 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Anthropic slips an invisible signature into Claude</title>
+      <link>https://www.therundown.ai/p/anthropic-slips-an-invisible-signature-into-claude</link>
+      <description>Anthropic secretly embeds invisible watermarks in Claude outputs. Plus: Use ChatGPT to build custom Mac shortcuts in this week's AI briefing.</description>
+      <content:encoded>&lt;img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/43b817d8-947d-4aa9-b6d6-c31de3ea40d3/claudewatermark.jpg" alt="Anthropic slips an invisible signature into Claude"&gt;&lt;br&gt;&lt;p&gt;Anthropic secretly embeds invisible watermarks in Claude outputs. Plus: Use ChatGPT to build custom Mac shortcuts in this week's AI briefing.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-slips-an-invisible-signature-into-claude</guid>
+      <pubDate>Wed, 12 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Meta returns to its open-source roots</title>
       <link>https://www.therundown.ai/p/meta-returns-to-its-open-source-roots</link>
@@ -398,14 +406,6 @@
       <content:encoded>&lt;img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/4da11270-d3fe-404c-85f4-73fbee0ca585/rsiclock.jpg" alt="Anthropic confronts the RSI clock"&gt;&lt;br&gt;&lt;p&gt;Anthropic reveals AI systems accelerating their own improvement, exploring recursive self-enhancement risks and agentic agent frameworks for productivity gains.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-confronts-the-rsi-clock</guid>
       <pubDate>Fri, 05 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ideogram and Reve rethink how AI images get made</title>
-      <link>https://www.therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made</link>
-      <description>Ideogram 4.0 and Reve 2.0 revolutionize AI image creation with post-generation editing, typography control, and layout customization—reshaping how creators use AI models.</description>
-      <content:encoded>&lt;img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2828fd11-d79e-4b97-98b8-4e06655d2020/ideogram-reve.jpg" alt="Ideogram and Reve rethink how AI images get made"&gt;&lt;br&gt;&lt;p&gt;Ideogram 4.0 and Reve 2.0 revolutionize AI image creation with post-generation editing, typography control, and layout customization—reshaping how creators use AI models.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/ideogram-and-reve-rethink-how-ai-images-get-made</guid>
-      <pubDate>Thu, 04 Jun 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The White House rethinks its Anthropic fight</title>
