@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 07:10:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 12:43:35 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Grok 4.6 storms the AI frontier</title>
+      <link>https://www.therundown.ai/p/grok-4-6-storms-the-ai-frontier</link>
+      <description>Grok 4.6 pushes AI boundaries with breakthrough performance at a fraction of the cost. Plus: Generate 100 ad hooks from customer feedback in this week's AI briefing.</description>
+      <content:encoded>&lt;img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/beebfbda-d16d-4ed9-bc80-218fbaee7639/46high.jpg?t=1786572807" alt="Grok 4.6 storms the AI frontier"&gt;&lt;br&gt;&lt;p&gt;Grok 4.6 pushes AI boundaries with breakthrough performance at a fraction of the cost. Plus: Generate 100 ad hooks from customer feedback in this week's AI briefing.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/grok-4-6-storms-the-ai-frontier</guid>
+      <pubDate>Thu, 13 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic slips an invisible signature into Claude</title>
       <link>https://www.therundown.ai/p/anthropic-slips-an-invisible-signature-into-claude</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/4da11270-d3fe-404c-85f4-73fbee0ca585/rsiclock.jpg?t=1780609592" alt="Anthropic confronts the RSI clock"&gt;&lt;br&gt;&lt;p&gt;Anthropic reveals AI systems accelerating their own improvement, exploring recursive self-enhancement risks and agentic agent frameworks for productivity gains.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-confronts-the-rsi-clock</guid>
       <pubDate>Fri, 05 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The White House rethinks its Anthropic fight</title>
-      <link>https://www.therundown.ai/p/the-white-house-rethinks-its-anthropic-fight</link>
-      <description>The White House reconsiders its stance on Anthropic as powerful new AI capabilities emerge, raising complex national security questions in the evolving AI regulation landscape.</description>
-      <content:encoded>&lt;img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/d8ef985d-adbd-44e9-a049-e1f644580ee8/eefb06be-1e74-48d3-8f93-2b8b6a94c6d1.png?t=1777583398" alt="The White House rethinks its Anthropic fight"&gt;&lt;br&gt;&lt;p&gt;The White House reconsiders its stance on Anthropic as powerful new AI capabilities emerge, raising complex national security questions in the evolving AI regulation landscape.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/the-white-house-rethinks-its-anthropic-fight</guid>
-      <pubDate>Fri, 01 May 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
