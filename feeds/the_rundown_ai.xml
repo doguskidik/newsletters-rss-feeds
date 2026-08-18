@@ -13,8 +13,16 @@
       <link>https://www.therundown.ai/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 06:24:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 12:22:45 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Cursor's Origin hits GitHub on its worst day</title>
+      <link>https://www.therundown.ai/p/cursor-origin-hits-github-on-its-worst-day</link>
+      <description>Cursor's Origin launches as GitHub alternative amid platform outage. Plus: Configure ChatGPT to match your unique writing style in this week's AI briefing.</description>
+      <content:encoded>&lt;img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/9d4ed432-52d7-4b61-8622-897be0e15802/cursororigin.jpg?t=1787006499" alt="Cursor's Origin hits GitHub on its worst day"&gt;&lt;br&gt;&lt;p&gt;Cursor's Origin launches as GitHub alternative amid platform outage. Plus: Configure ChatGPT to match your unique writing style in this week's AI briefing.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="true">https://www.therundown.ai/p/cursor-origin-hits-github-on-its-worst-day</guid>
+      <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dario Amodei logs on to answer the critics</title>
       <link>https://www.therundown.ai/p/dario-amodei-logs-on-to-answer-the-critics</link>
@@ -406,14 +414,6 @@
       <content:encoded>&lt;img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/decb5ed5-a404-48d9-8970-38ff1d6b2ea8/fablebenchmarks.jpg?t=1781043974" alt="Anthropic hands the public Mythos-class AI"&gt;&lt;br&gt;&lt;p&gt;Anthropic releases Mythos-class AI model Fable, setting new benchmarks and reigniting discussions about powerful AI capabilities and their public availability.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="true">https://www.therundown.ai/p/anthropic-hands-the-public-mythos-class-ai</guid>
       <pubDate>Wed, 10 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple’s new Siri AI overhaul is here (sort of)</title>
-      <link>https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of</link>
-      <description>Apple's Siri AI overhaul arrives at WWDC26 with on-device intelligence, while OpenAI enters its third phase. Can Apple finally catch up in AI?</description>
-      <content:encoded>&lt;img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/d09ce26b-9d02-4cb3-8bcd-c69083530d91/siriai.jpg?t=1780983661" alt="Apple’s new Siri AI overhaul is here (sort of)"&gt;&lt;br&gt;&lt;p&gt;Apple's Siri AI overhaul arrives at WWDC26 with on-device intelligence, while OpenAI enters its third phase. Can Apple finally catch up in AI?&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="true">https://www.therundown.ai/p/apple-siri-ai-overhaul-is-here-sort-of</guid>
-      <pubDate>Tue, 09 Jun 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
